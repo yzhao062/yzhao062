@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). I am the author/core developer of various machine learning tools and systems with more than millions of downloads.
+I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). I am the author/core developer of various machine learning tools and systems with more than millions of downloads. I am an advocate of **Accessible ML**. 
 
 🔭 I mainly focus on:
 
@@ -11,11 +11,12 @@ I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https:/
 😄 I am open to:
 
 - collaboration opportunities (anytime & anywhere & any type) and 
-- research internships (open for Summer 2021). I could legally work in United States, Canada, and China.
+- research internships (open for Summer 2021). I could legally work in Canada, United States, and China
 
 📫 Contact me by:
-- Email (zhaoy [AT] cmu.edu) or 
-- [WeChat (微信)](http://localhost:1313/user/yuezhao2/files/ID_zhaoyueyue1002.JPG).
+- Email (zhaoy [AT] cmu.edu)
+- [Twitter](https://twitter.com/yzhao062)
+- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_zhaoyueyue1002.JPG)
 
 ----
 
