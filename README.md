@@ -19,7 +19,7 @@ I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https:/
 
 ----
 
-[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhao062&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
