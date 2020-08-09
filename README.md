@@ -16,6 +16,7 @@ I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https:/
 📫 Contact me by:
 - Email (zhaoy [AT] cmu.edu)
 - [Twitter](https://twitter.com/yzhao062)
+- [知乎:「微调」](https://www.zhihu.com/people/breaknever)
 - [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_zhaoyueyue1002.JPG)
 
 ----
