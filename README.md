@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionaly, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >100,0000 downloads.
+I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >100,0000 downloads.
 
 🔭 I mainly focus on:
 
