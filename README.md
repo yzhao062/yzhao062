@@ -1,23 +1,31 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >100,0000 downloads.
+I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >200,0000 total downloads.
 
-🔭 I mainly focus on:
+🔭 **I mainly focus on**:
 
 - data mining topics related to scalability, reliability, and automation and
 - information systems questions related to interaction, trade-off, and cooperation between human and “AI”
 
-😄 I am open to:
+😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type) and 
 - research internships (open for Summer 2021). I could legally work in Canada, United States, and China
 
-📫 Contact me by:
+📫 **Contact me by**:
 - Email (zhaoy [AT] cmu.edu)
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
 - [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_zhaoyueyue1002.JPG)
+
+
+💬 **News & Travel**:
+
+- **Aug 2020**: Our paper [COPOD: Copula-Based Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-icdm-copod-preprint.pdf) (original version) has been accepted by [ICDM 2020](http://icdm2020.bigke.org/)!
+It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm**.
+The revised version and the integration to [PyOD](https://github.com/yzhao062/pyod) will be out soon. Nice work with [Zheng Li](https://www.linkedin.com/in/winstonl) :)
+- **Aug 2020**: [PyHealth](https://github.com/yzhao062/pyhealth) (a python library for Healthcare AI) is released! 
 
 ----
 
