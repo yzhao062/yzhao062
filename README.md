@@ -3,7 +3,11 @@
 
 I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >200,0000 total downloads.
 
-🔭 **I mainly focus on**:
+**Good news: I am looking for 2021 Summer ML/DM Internship in Canada, United States, or China. Not necessarily pure research; system or AutoML related stuff would be great fit as well.** Just reach out and we could work something out :)
+
+And of course, I am still a ML/DM researcher at the end of the day.
+
+🔭 **Reseach-wise, I mainly focus on**:
 
 - data mining topics related to scalability, reliability, and automation and
 - information systems questions related to interaction, trade-off, and cooperation between human and “AI”
