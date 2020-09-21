@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars, and >200,0000 total downloads.
+I am pursuing a [Ph.D. in Machine Learning and Public Policy (expected)](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) at [Carnegie Mellon University](https://www.cmu.edu/). Additionally, I am a seasoned ML software/system architect with 7 Python machine learning libraries, ~8,000 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >200,0000 total downloads.
 
 **Good news: I am looking for 2021 Summer ML/DM Internship in Canada, United States, or China. Not necessarily pure research; system or AutoML related stuff would be great fit as well.** Just reach out and we could work something out :)
 
@@ -26,10 +26,11 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
-- **Aug 2020**: Our paper [COPOD: Copula-Based Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-icdm-copod-preprint.pdf) (original version) has been accepted by [ICDM 2020](http://icdm2020.bigke.org/)!
-It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm**.
-The revised version and the integration to [PyOD](https://github.com/yzhao062/pyod) will be out soon. Nice work with [Zheng Li](https://www.linkedin.com/in/winstonl) :)
-- **Aug 2020**: [PyHealth](https://github.com/yzhao062/pyhealth) (a python library for Healthcare AI) is released! 
+- **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
+It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
+
+- **Sep 2020**: Have a paper accepted at [ICDM Workshops 2020 (ICDMW)](https://msdm20.loria.fr/). A personal copy can be found here: [SynC: A Copula based Framework for Generating Synthetic Data from Aggregated Sources](papers/20-icdmw-sync.pdf).
+
 
 ----
 
