@@ -26,6 +26,9 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Sep 2020**: Our new library [TODS](https://github.com/datamllab/tods), a Python library for time-series outlier detection is out. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html), 
+and I contribute to core detection model design and implementation. See [the paper](https://arxiv.org/pdf/2009.09822.pdf) and [video](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) under submission @ [AAAI 2021 (demo)](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
+
 - **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
 It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
 
