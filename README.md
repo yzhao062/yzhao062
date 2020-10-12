@@ -26,6 +26,10 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Oct 2020**: Have a new system paper ([SUOD: Accelerating Large-scare Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-preprint-suod.pdf)) under review at a major ML conference. [SUOD](https://github.com/yzhao062/SUOD) is an
+acceleration system for large-scale unsupervised outlier detection. It has been downloaded by more than 700,000 times, included as part of [PyOD](https://github.com/yzhao062/pyod), and presented in *AAAI Workshop on* [*Artificial Intelligence for Cyber Security (AICS)*](http://aics.site/AICS2020/).
+
+
 - **Sep 2020**: We have a new paper [Automating Outlier Detection via Meta-Learning](https://arxiv.org/abs/2009.10606) ([code](https://github.com/yzhao062/MetaOD)) out. In this paper, we propose the first unsupervised meta-learner that can select (recommend) the most performing outlier detection model on an arbitrary dataset. 
 
 - **Sep 2020**: Our new library [TODS](https://github.com/datamllab/tods), a Python library for time-series outlier detection is out. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html), 
