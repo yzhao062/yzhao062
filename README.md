@@ -1,7 +1,9 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/). I am also a seasoned machine learning (ML) software/system architect with [10 ML libraries](https://github.com/yzhao062), 8,000 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >200,0000 total downloads.
+I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), a machine learning (ML) evangelist, 
+and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
+As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 8,000 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >200,0000 total downloads.
 
 **Good news: I am looking for 2021 Summer ML/DM Internship in Canada, United States, or China. Not necessarily pure research; system or AutoML related stuff would be great fit as well.** Just reach out and we could work something out :)
 
@@ -26,6 +28,10 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Oct 2020**: Our demo paper [TODS: An Automated Time Series Outlier Detection System](https://arxiv.org/pdf/2009.09822.pdf) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
+See the new Python library [TODS](https://github.com/datamllab/tods) [(video)](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) designed for time-series outlier detection. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html); 
+I contribute to core detection model design and implementation.
+
 - **Oct 2020**: Our paper [AutoAudit: Mining Accounting and Time-Evolving Graphs](https://github.com/mengchillee/AutoAudit) will appear in [BigData 2020](http://bigdataieee.org/BigData2020/). It is a system for
 detecting anomalies in time-evolving graphs. Great work with Meng-Chieh Lee, Aluna Wang, Pierre Jinghong Liang, Leman Akoglu, Vincent S. Tseng, and Christos Faloutsos!
 
@@ -36,8 +42,6 @@ acceleration system for large-scale unsupervised outlier detection. It has been 
 
 - **Sep 2020**: We have a new paper [Automating Outlier Detection via Meta-Learning](https://arxiv.org/abs/2009.10606) ([code](https://github.com/yzhao062/MetaOD)) out. In this paper, we propose the first unsupervised meta-learner that can select (recommend) the most performing outlier detection model on an arbitrary dataset. 
 
-- **Sep 2020**: Our new library [TODS](https://github.com/datamllab/tods), a Python library for time-series outlier detection is out. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html), 
-and I contribute to core detection model design and implementation. See [the paper](https://arxiv.org/pdf/2009.09822.pdf) and [video](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) under submission @ [AAAI 2021 (demo)](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
 
 - **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
 It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
