@@ -3,7 +3,7 @@
 
 I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), a machine learning (ML) evangelist, 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 8,000 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >200,0000 total downloads.
+As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 8,500 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >300,0000 total downloads.
 
 **Good news: I am looking for 2021 Summer ML/DM Internship in Canada, United States, or China. Not necessarily pure research; system or AutoML related stuff would be great fit as well.** Just reach out and we could work something out :)
 
@@ -27,6 +27,11 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 
 💬 **News & Travel**:
+
+- **Nov 2020**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. 
+Great work led by [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and [Kexin Huang](https://www.kexinhuang.com/) from Havard!
+
+- **Nov 2020**: Our paper [A Data Denoising Approach to Optimize Functional Clustering of Single Cell RNA-sequencing Data]() is accepted at [IEEE BIBM 2020](https://ieeebibm.org/BIBM2020/). Great work [Changlin Wan](https://web.ics.purdue.edu/~wan82/)!
 
 - **Oct 2020**: Our demo paper [TODS: An Automated Time Series Outlier Detection System](https://arxiv.org/pdf/2009.09822.pdf) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
 See the new Python library [TODS](https://github.com/datamllab/tods) [(video)](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) designed for time-series outlier detection. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html); 
