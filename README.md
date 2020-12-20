@@ -23,7 +23,7 @@ And of course, I am still a ML/DM researcher at the end of the day.
 - Email (zhaoy [AT] cmu.edu)
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
-- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_zhaoyueyue1002.JPG)
+- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_yzhao062.JPG)
 
 
 💬 **News & Travel**:
