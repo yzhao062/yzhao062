@@ -1,11 +1,11 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), a machine learning (ML) evangelist, 
+I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 8,500 GitHub stars (top 0.002%: ranked 820 out of 40M GitHub users), and >300,0000 total downloads.
+As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 9,000 GitHub stars (top 0.002%: ranked 810 out of 40M GitHub users), and >300,0000 total downloads.
 
-**Good news: I am looking for 2021 Summer ML/DM Internship in Canada, United States, or China. Not necessarily pure research; system or AutoML related stuff would be great fit as well.** Just reach out and we could work something out :)
+Regarding Leetcode style interview: I strongly dislike the general programming interview, and would NOT do this type of “tests”. You should believe I know what I am doing. Otherwise, you should fine someone else :)
 
 And of course, I am still a ML/DM researcher at the end of the day.
 
