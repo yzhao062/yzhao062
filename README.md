@@ -3,9 +3,10 @@
 
 I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 9,000 GitHub stars (top 0.002%: ranked 810 out of 40M GitHub users), and >300,0000 total downloads.
+As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 9,000 GitHub stars (top 0.002%: ranked 800 out of 40M GitHub users), and >300,0000 total downloads.
 
-Regarding Leetcode style interview: I strongly dislike the general programming interview, and would NOT do this type of “tests”. You should believe I know what I am doing. Otherwise, you should fine someone else :)
+**Regarding Leetcode style interview**: I strongly dislike the general programming interview, and would NOT do this type of "tests". 
+You can trust my coding and design capacity :)
 
 And of course, I am still a ML/DM researcher at the end of the day.
 
@@ -27,6 +28,10 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 
 💬 **News & Travel**:
+
+- **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:) See u in CA (if not remotely)!
+
+- **Dec 2020**: Have multiple invited talks on anomaly detection and general machine learning. Video to be released :)
 
 - **Nov 2020**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. 
 Great work led by [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and [Kexin Huang](https://www.kexinhuang.com/) from Havard!
@@ -51,7 +56,6 @@ acceleration system for large-scale unsupervised outlier detection. It has been 
 - **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
 It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
 
-- **Sep 2020**: Have a paper accepted at [ICDM Workshops 2020 (ICDMW)](https://msdm20.loria.fr/). A personal copy can be found here: [SynC: A Copula based Framework for Generating Synthetic Data from Aggregated Sources](papers/20-icdmw-sync.pdf).
 
 
 ----
