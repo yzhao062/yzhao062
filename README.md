@@ -29,6 +29,9 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
+See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) under review at JMLR as well!
+
 - **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:) See u in CA (if not remotely)!
 
 - **Dec 2020**: Have multiple invited talks on anomaly detection and general machine learning. Video to be released :)
