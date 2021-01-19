@@ -29,6 +29,9 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at Conference on Machine Learning Systems (MLSys' 21). [SUOD](https://github.com/yzhao062/SUOD) is an
+acceleration system for large-scale unsupervised outlier detection.
+
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
 See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) under review at JMLR as well!
 
@@ -47,11 +50,6 @@ I contribute to core detection model design and implementation.
 
 - **Oct 2020**: Our paper [AutoAudit: Mining Accounting and Time-Evolving Graphs](https://github.com/mengchillee/AutoAudit) will appear in [BigData 2020](http://bigdataieee.org/BigData2020/). It is a system for
 detecting anomalies in time-evolving graphs. Great work with Meng-Chieh Lee, Aluna Wang, Pierre Jinghong Liang, Leman Akoglu, Vincent S. Tseng, and Christos Faloutsos!
-
-
-- **Oct 2020**: Have a new system paper ([SUOD: Accelerating Large-scare Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/20-preprint-suod.pdf)) under review at a major ML conference. [SUOD](https://github.com/yzhao062/SUOD) is an
-acceleration system for large-scale unsupervised outlier detection. It has been downloaded by more than 700,000 times, included as part of [PyOD](https://github.com/yzhao062/pyod), and presented in *AAAI Workshop on* [*Artificial Intelligence for Cyber Security (AICS)*](http://aics.site/AICS2020/).
-
 
 - **Sep 2020**: We have a new paper [Automating Outlier Detection via Meta-Learning](https://arxiv.org/abs/2009.10606) ([code](https://github.com/yzhao062/MetaOD)) out. In this paper, we propose the first unsupervised meta-learner that can select (recommend) the most performing outlier detection model on an arbitrary dataset. 
 
