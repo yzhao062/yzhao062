@@ -12,13 +12,14 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- data mining topics related to scalability, reliability, and automation and
-- information systems questions related to interaction, trade-off, and cooperation between human and “AI”
+- **data mining** topics related to **outlier detection** and **ensemble learning**
+- **machine learning systems (MLSys)** that can speed up or scale up data mining algorithms 
+- **information systems** problems related to **interaction, trade-off, and cooperation between human and "AI"** 
 
 😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type) and 
-- research internships (open for Summer 2021). I could legally work in Canada, United States, and China
+- research internships (open for Summer 2022). I could legally work in Canada, United States, and China
 
 📫 **Contact me by**:
 - Email (zhaoy [AT] cmu.edu)
@@ -29,20 +30,15 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
-- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at Conference on Machine Learning Systems (MLSys' 21). [SUOD](https://github.com/yzhao062/SUOD) is an
-acceleration system for large-scale unsupervised outlier detection.
+- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at [onference on Machine Learning Systems (MLSys' 21)](https://mlsys.org/). SUOD is an acceleration system for large-scale unsupervised outlier detection.
 
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
 See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) under review at JMLR as well!
 
 - **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:) See u in CA (if not remotely)!
 
-- **Dec 2020**: Have multiple invited talks on anomaly detection and general machine learning. Video to be released :)
-
 - **Nov 2020**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. 
 Great work led by [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and [Kexin Huang](https://www.kexinhuang.com/) from Havard!
-
-- **Nov 2020**: Our paper [A Data Denoising Approach to Optimize Functional Clustering of Single Cell RNA-sequencing Data]() is accepted at [IEEE BIBM 2020](https://ieeebibm.org/BIBM2020/). Great work [Changlin Wan](https://web.ics.purdue.edu/~wan82/)!
 
 - **Oct 2020**: Our demo paper [TODS: An Automated Time Series Outlier Detection System](https://arxiv.org/pdf/2009.09822.pdf) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
 See the new Python library [TODS](https://github.com/datamllab/tods) [(video)](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) designed for time-series outlier detection. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html); 
@@ -52,11 +48,6 @@ I contribute to core detection model design and implementation.
 detecting anomalies in time-evolving graphs. Great work with Meng-Chieh Lee, Aluna Wang, Pierre Jinghong Liang, Leman Akoglu, Vincent S. Tseng, and Christos Faloutsos!
 
 - **Sep 2020**: We have a new paper [Automating Outlier Detection via Meta-Learning](https://arxiv.org/abs/2009.10606) ([code](https://github.com/yzhao062/MetaOD)) out. In this paper, we propose the first unsupervised meta-learner that can select (recommend) the most performing outlier detection model on an arbitrary dataset. 
-
-
-- **Sep 2020**: Our paper [COPOD: Copula-Based Outlier Detection](papers/20-icdm-copod.pdf) (camera-ready version) will appear in [ICDM 2020](http://icdm2020.bigke.org/) soon!
-It is a **fast, parameter-free, and highly interpretable unsupervised outlier detection algorithm** and available in [PyOD](https://github.com/yzhao062/pyod) now.
-
 
 
 ----
