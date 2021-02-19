@@ -33,7 +33,7 @@ And of course, I am still a ML/DM researcher at the end of the day.
 - **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at [onference on Machine Learning Systems (MLSys' 21)](https://mlsys.org/). SUOD is an acceleration system for large-scale unsupervised outlier detection.
 
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
-See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) under review at JMLR as well!
+See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) as well!
 
 - **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:) See u in CA (if not remotely)!
 
