@@ -3,7 +3,7 @@
 
 I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 9,000 GitHub stars (top 0.002%: ranked 800 out of 40M GitHub users), and >300,0000 total downloads.
+As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 10,000 GitHub stars (top 0.002%: ranked 800 out of 40M GitHub users), and >300,0000 total downloads.
 
 **Regarding Leetcode style interview**: I strongly dislike the general programming interview, and would NOT do this type of "tests". 
 You can trust my coding and design capacity :)
