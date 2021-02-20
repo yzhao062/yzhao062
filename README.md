@@ -25,29 +25,23 @@ And of course, I am still a ML/DM researcher at the end of the day.
 - Email (zhaoy [AT] cmu.edu)
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
-- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_yzhao062.JPG)
+- [Homepage](https://www.andrew.cmu.edu/user/yuezhao2/)
+- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/)
 
 
 💬 **News & Travel**:
 
-- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at [onference on Machine Learning Systems (MLSys' 21)](https://mlsys.org/). SUOD is an acceleration system for large-scale unsupervised outlier detection.
+- **Feb 2021**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. See [paper on arxiv](https://arxiv.org/abs/2102.09548)!
+Great work led by [Kexin Huang](https://www.kexinhuang.com/) and [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) from Havard!
+
+- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](papers/21-mlsys-suod.pdf)) accepted at [Conference on Machine Learning and Systems (MLSys)](https://mlsys.org/). [SUOD](https://github.com/yzhao062/SUOD) is an
+acceleration system for large-scale unsupervised outlier detection with [Xiyang Hu](https://www.andrew.cmu.edu/user/xiyanghu/). It has been downloaded by more than 900,000 times, included as part of [PyOD](https://github.com/yzhao062/pyod).
 
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
-See [the corresponding paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-pyhealth.pdf) as well!
+See [the corresponding paper](https://arxiv.org/abs/2101.04209) as well!
 
-- **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:) See u in CA (if not remotely)!
 
-- **Nov 2020**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. 
-Great work led by [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) and [Kexin Huang](https://www.kexinhuang.com/) from Havard!
-
-- **Oct 2020**: Our demo paper [TODS: An Automated Time Series Outlier Detection System](https://arxiv.org/pdf/2009.09822.pdf) is accepted at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/aaai21demoscall/).
-See the new Python library [TODS](https://github.com/datamllab/tods) [(video)](https://www.youtube.com/watch?v=H0bBXuDUe7s&feature=youtu.be) designed for time-series outlier detection. It is initialized and led by [DATA Lab @ Texas A&M University](https://people.engr.tamu.edu/xiahu/people.html); 
-I contribute to core detection model design and implementation.
-
-- **Oct 2020**: Our paper [AutoAudit: Mining Accounting and Time-Evolving Graphs](https://github.com/mengchillee/AutoAudit) will appear in [BigData 2020](http://bigdataieee.org/BigData2020/). It is a system for
-detecting anomalies in time-evolving graphs. Great work with Meng-Chieh Lee, Aluna Wang, Pierre Jinghong Liang, Leman Akoglu, Vincent S. Tseng, and Christos Faloutsos!
-
-- **Sep 2020**: We have a new paper [Automating Outlier Detection via Meta-Learning](https://arxiv.org/abs/2009.10606) ([code](https://github.com/yzhao062/MetaOD)) out. In this paper, we propose the first unsupervised meta-learner that can select (recommend) the most performing outlier detection model on an arbitrary dataset. 
+- **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:)
 
 
 ----
