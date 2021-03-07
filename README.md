@@ -32,7 +32,7 @@ As a seasoned ML software/system architect, I have led/participated [> 10 ML lib
 - **Feb 2021**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. See [paper on arxiv](https://arxiv.org/abs/2102.09548)!
 Great work led by [Kexin Huang](https://www.kexinhuang.com/) and [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) from Havard!
 
-- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](papers/21-mlsys-suod.pdf)) accepted at [Conference on Machine Learning and Systems (MLSys)](https://mlsys.org/). [SUOD](https://github.com/yzhao062/SUOD) is an
+- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at [Conference on Machine Learning and Systems (MLSys)](https://mlsys.org/). [SUOD](https://github.com/yzhao062/SUOD) is an
 acceleration system for large-scale unsupervised outlier detection with [Xiyang Hu](https://www.andrew.cmu.edu/user/xiyanghu/). It has been downloaded by more than 900,000 times, included as part of [PyOD](https://github.com/yzhao062/pyod).
 
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
