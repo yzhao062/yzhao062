@@ -5,16 +5,12 @@ I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/)
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
 As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 10,000 GitHub stars (top 0.002%: ranked 800 out of 40M GitHub users), and >300,0000 total downloads.
 
-**Regarding Leetcode style interview**: I strongly dislike the general programming interview, and would NOT do this type of "tests". 
-You can trust my coding and design capacity :)
-
-And of course, I am still a ML/DM researcher at the end of the day.
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- **data mining** topics related to **outlier detection** and **ensemble learning**
-- **machine learning systems (MLSys)** that can speed up or scale up data mining algorithms 
-- **information systems** problems related to **interaction, trade-off, and cooperation between human and "AI"** 
+- **data mining** topics related to **outlier detection** (anomaly detection)
+- **machine learning systems (MLSys)** that can **speed up** and/or **scale up** data mining and machine learning algorithms 
+
 
 😄 **I am open to**:
 
@@ -31,6 +27,8 @@ And of course, I am still a ML/DM researcher at the end of the day.
 
 💬 **News & Travel**:
 
+- **Mar 2020**: (confirmed!) I will join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/)'s team @ Stanford University for a summer research intern:)
+
 - **Feb 2021**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. See [paper on arxiv](https://arxiv.org/abs/2102.09548)!
 Great work led by [Kexin Huang](https://www.kexinhuang.com/) and [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) from Havard!
 
@@ -39,10 +37,6 @@ acceleration system for large-scale unsupervised outlier detection with [Xiyang 
 
 - **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
 See [the corresponding paper](https://arxiv.org/abs/2101.04209) as well!
-
-
-- **Dec 2020**: Thrilled to join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/) @ Stanford University for a research internship/visit in 2021:)
-
 
 ----
 
