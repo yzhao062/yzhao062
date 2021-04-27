@@ -9,7 +9,7 @@ As a seasoned ML software/system architect, I have led/participated [> 10 ML lib
 🔭 **Reseach-wise, I mainly focus on**:
 
 - **data mining** topics related to **outlier detection** (anomaly detection)
-- **machine learning systems (MLSys)** that can **speed up** and/or **scale up** data mining and machine learning algorithms 
+- **machine learning systems (MLSys)** that can **speed/scale upp** and **automate** data mining and machine learning algorithms 
 
 
 😄 **I am open to**:
@@ -27,7 +27,9 @@ As a seasoned ML software/system architect, I have led/participated [> 10 ML lib
 
 💬 **News & Travel**:
 
-- **Mar 2020**: (confirmed!) I will join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/)'s team @ Stanford University for a summer research intern:)
+- **Apr 2021**: How to evaluate/select outlier detection models without any external information (e.g., ground truth)? We have a [new preprint](https://arxiv.org/pdf/2104.01422.pdf) on using internal strategies for model selection. Do they suffice? [Check out our paper](https://arxiv.org/pdf/2104.01422.pdf)!
+
+- **Mar 2020**: I will join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/)'s team @ Stanford University during summer :)
 
 - **Feb 2021**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. See [paper on arxiv](https://arxiv.org/abs/2102.09548)!
 Great work led by [Kexin Huang](https://www.kexinhuang.com/) and [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) from Havard!
