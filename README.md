@@ -9,8 +9,11 @@ As a seasoned ML software/system architect, I have led/participated [> 10 ML lib
 🔭 **Reseach-wise, I mainly focus on**:
 
 - **data mining** topics related to **outlier detection** (anomaly detection)
-- **machine learning systems (MLSys)** that can **speed/scale upp** and **automate** data mining and machine learning algorithms 
+- **machine learning systems (MLSys)** that can **speed/scale up** and **automate** data mining and machine learning algorithms 
 
+At CMU, I work with [Prof. Leman Akoglu (Heinz)](http://www.cs.cmu.edu/~lakoglu/) on outlier detection, 
+[Prof. George H. Chen (Heinz)](http://www.andrew.cmu.edu/user/georgech/) on general ML,
+and [Prof. Zhihao Jia (CSD)](https://cs.cmu.edu/~zhihaoj2) on machine learning systems (MLSys).
 
 😄 **I am open to**:
 
@@ -27,18 +30,12 @@ As a seasoned ML software/system architect, I have led/participated [> 10 ML lib
 
 💬 **News & Travel**:
 
+- **May 2021**: I passed my 1st paper presentation (as part of my Ph.D. program requirements)–two more to go!
+
+- **May 2021**: Have a new journal paper titled Copula-Based Outlier Detection under review. It is based on our ICDM’ 20 paper with more theoretical analysis. See [the extended journal version](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-copod-journal.pdf)!
+
 - **Apr 2021**: How to evaluate/select outlier detection models without any external information (e.g., ground truth)? We have a [new preprint](https://arxiv.org/pdf/2104.01422.pdf) on using internal strategies for model selection. Do they suffice? [Check out our paper](https://arxiv.org/pdf/2104.01422.pdf)!
 
-- **Mar 2020**: I will join [Prof. Jure Leskovek](https://cs.stanford.edu/people/jure/)'s team @ Stanford University during summer :)
-
-- **Feb 2021**: [Therapeutics Data Commons (TDC)](https://zitniklab.hms.harvard.edu/TDC/), a large collection of > 60 machine learning-ready datasets across more than 20 therapeutic tasks, is released. See [paper on arxiv](https://arxiv.org/abs/2102.09548)!
-Great work led by [Kexin Huang](https://www.kexinhuang.com/) and [Prof. Marinka Zitnik](https://zitniklab.hms.harvard.edu/) from Havard!
-
-- **Jan 2021**: Have a new system paper ([SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf)) accepted at [Conference on Machine Learning and Systems (MLSys)](https://mlsys.org/). [SUOD](https://github.com/yzhao062/SUOD) is an
-acceleration system for large-scale unsupervised outlier detection with [Xiyang Hu](https://www.andrew.cmu.edu/user/xiyanghu/). It has been downloaded by more than 900,000 times, included as part of [PyOD](https://github.com/yzhao062/pyod).
-
-- **Jan 2021**: We have a new library [PyHealth](https://github.com/yzhao062/PyHealth) released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based).
-See [the corresponding paper](https://arxiv.org/abs/2101.04209) as well!
 
 ----
 
