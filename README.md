@@ -3,17 +3,20 @@
 
 I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-As a seasoned ML software/system architect, I have led/participated [> 10 ML libraries initiatives](https://github.com/yzhao062), 10,000 GitHub stars (top 0.002%: ranked 800 out of 40M GitHub users), and >300,0000 total downloads.
+I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 10,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >400,0000 total downloads.
 
+
+I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
 - **data mining** topics related to **outlier detection** (anomaly detection)
 - **machine learning systems (MLSys)** that can **speed/scale up** and **automate** data mining and machine learning algorithms 
 
-At CMU, I work with [Prof. Leman Akoglu (Heinz)](http://www.cs.cmu.edu/~lakoglu/) on outlier detection, 
-[Prof. George H. Chen (Heinz)](http://www.andrew.cmu.edu/user/georgech/) on general ML,
-and [Prof. Zhihao Jia (CSD)](https://cs.cmu.edu/~zhihaoj2) on machine learning systems (MLSys).
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) on outlier detection, 
+[Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML,
+and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) on machine learning systems (MLSys).
+I am currently visiting at Standford University in [SNAP](http://snap.stanford.edu/) by [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/).
 
 😄 **I am open to**:
 
@@ -30,7 +33,11 @@ and [Prof. Zhihao Jia (CSD)](https://cs.cmu.edu/~zhihaoj2) on machine learning s
 
 💬 **News & Travel**:
 
-- **May 2021**: I passed my 1st paper presentation (as part of my Ph.D. program requirements)–two more to go!
+- **Jun 2021**: Two impactful large-scale ML initiatives are under submission at [NeurIPS 2021 (Datasets and Benchmarks)](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
+Please check out and follow them on OpenReview: (1) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) and
+(2) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr).
+
+- **May-Aug 2021**: Visiting at Standford University in [SNAP](http://snap.stanford.edu/) by [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/).
 
 - **May 2021**: Have a new journal paper titled Copula-Based Outlier Detection under review. It is based on our ICDM’ 20 paper with more theoretical analysis. See [the extended journal version](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-copod-journal.pdf)!
 
