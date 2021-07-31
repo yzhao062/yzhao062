@@ -1,9 +1,9 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am a Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
+I am a third-year Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
 and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 10,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >400,0000 total downloads.
+I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >400,0000 total downloads.
 
 
 I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
@@ -13,14 +13,15 @@ I specialize in designing and building **machine learning systems**, with realiz
 - **data mining** topics related to **outlier detection** (anomaly detection)
 - **machine learning systems (MLSys)** that can **speed/scale up** and **automate** data mining and machine learning algorithms 
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) on outlier detection, 
-[Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML,
-and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) on machine learning systems (MLSys).
-I am currently visiting at Standford University in [SNAP](http://snap.stanford.edu/) by [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/).
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection, 
+[Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML and statistics,
+and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems. 
+I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at [SNAP](http://snap.stanford.edu/), Standford University.
 
 😄 **I am open to**:
 
-- collaboration opportunities (anytime & anywhere & any type) and 
+- collaboration opportunities (anytime & anywhere & any type)
+- paper review, tutorial, workshop, and talk opportunities
 - research internships (open for Summer 2022). I could legally work in Canada, United States, and China
 
 📫 **Contact me by**:
@@ -33,15 +34,13 @@ I am currently visiting at Standford University in [SNAP](http://snap.stanford.e
 
 💬 **News & Travel**:
 
-- **Jun 2021**: Two impactful large-scale ML initiatives are under submission at [NeurIPS 2021 (Datasets and Benchmarks)](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
-Please check out and follow them on OpenReview: (1) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) and
-(2) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr).
+- **Aug 2021**: Two impactful large-scale ML initiatives are accepted to [NeurIPS 2021 (Datasets and Benchmarks track)](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
+See the papers on OpenReview: (1) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) and
+(2) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr). 
 
 - **May-Aug 2021**: Visiting at Standford University in [SNAP](http://snap.stanford.edu/) by [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/).
 
 - **May 2021**: Have a new journal paper titled Copula-Based Outlier Detection under review. It is based on our ICDM’ 20 paper with more theoretical analysis. See [the extended journal version](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-copod-journal.pdf)!
-
-- **Apr 2021**: How to evaluate/select outlier detection models without any external information (e.g., ground truth)? We have a [new preprint](https://arxiv.org/pdf/2104.01422.pdf) on using internal strategies for model selection. Do they suffice? [Check out our paper](https://arxiv.org/pdf/2104.01422.pdf)!
 
 
 ----
