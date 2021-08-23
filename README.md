@@ -1,9 +1,11 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 
-I am a third-year Ph.D. student at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), 
-and an ex management consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
-I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >400,0000 total downloads.
+I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
+Before joining CMU, I was a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
+
+I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
 
 
 I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
@@ -16,13 +18,13 @@ I specialize in designing and building **machine learning systems**, with realiz
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection, 
 [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML and statistics,
 and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems. 
-I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at [SNAP](http://snap.stanford.edu/), Standford University.
+I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at [SNAP](http://snap.stanford.edu/), Stanford University.
 
 😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type)
 - paper review, tutorial, workshop, and talk opportunities
-- research internships (open for Summer 2022). I could legally work in Canada, United States, and China
+- **Summer Internship**: **Open to ML/Engineering Internship (Summer 2022). Please reach out :)**
 
 📫 **Contact me by**:
 - Email (zhaoy [AT] cmu.edu)
