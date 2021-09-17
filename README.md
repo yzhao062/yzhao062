@@ -36,6 +36,9 @@ I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at
 
 💬 **News & Travel**:
 
+- **Sep 2021**: Happy to spend my summer (as a member of the [PyG team](https://github.com/pyg-team)) for adding some cool features to [PyTorch Geometric (PyG)](https://www.pyg.org/). Check out [PyG 2.0](https://www.pyg.org/PyG2.0-released)!
+
+
 - **Aug 2021**: Two impactful large-scale ML initiatives are accepted to [NeurIPS 2021 (Datasets and Benchmarks track)](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
 See the papers on OpenReview: (1) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) and
 (2) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr). 
