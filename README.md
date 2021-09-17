@@ -15,9 +15,7 @@ I specialize in designing and building **machine learning systems**, with realiz
 - **data mining** topics related to **outlier detection** (anomaly detection)
 - **machine learning systems (MLSys)** that can **speed/scale up** and **automate** data mining and machine learning algorithms 
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection, 
-[Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML and statistics,
-and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems. 
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems. 
 I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at [SNAP](http://snap.stanford.edu/), Stanford University.
 
 😄 **I am open to**:
