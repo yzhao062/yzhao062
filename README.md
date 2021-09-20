@@ -5,18 +5,18 @@ I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/pro
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
 Before joining CMU, I was a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
 
-I have led/participated [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
+I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
 
 
 I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
-- **data mining** topics related to **outlier detection** (anomaly detection)
-- **machine learning systems (MLSys)** that can **speed/scale up** and **automate** data mining and machine learning algorithms 
+* **machine learning systems** that can **speed/scale up** and **automate** underlying algorithms 
+* **data mining algorithms** like **outlier detection** (anomaly detection) and ensemble learning
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection and [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems. 
-I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at [SNAP](http://snap.stanford.edu/), Stanford University.
+Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford University.
 
 😄 **I am open to**:
 
@@ -35,7 +35,6 @@ I am currently visiting [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at
 💬 **News & Travel**:
 
 - **Sep 2021**: Happy to spend my summer (as a member of the [PyG team](https://github.com/pyg-team)) for adding some cool features to [PyTorch Geometric (PyG)](https://www.pyg.org/). Check out [PyG 2.0](https://www.pyg.org/PyG2.0-released)!
-
 
 - **Aug 2021**: Two impactful large-scale ML initiatives are accepted to [NeurIPS 2021 (Datasets and Benchmarks track)](https://neurips.cc/Conferences/2021/CallForDatasetsBenchmarks).
 See the papers on OpenReview: (1) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) and
