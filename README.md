@@ -29,7 +29,6 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
 - [Homepage](https://www.andrew.cmu.edu/user/yuezhao2/)
-- [WeChat (微信)](https://www.andrew.cmu.edu/user/yuezhao2/)
 
 
 💬 **News & Travel**:
