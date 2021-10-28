@@ -35,15 +35,21 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 
 💬 **News & Travel**:
 
+- **Oct 2021**: Have new system out **TOD: Tensor-based Outlier Detection, A General GPU-Accelerated Framework**. with George H. Chen and Zhihao Jia.
+[Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
+
+  - **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
+  - &#127775; on average it is **11 times faster than PyOD**!
+  - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
+
+
+- **Oct 2021**: &#127775; Reached 500 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
+
 - **NeurIPS 2021**: Happy to have multiple papers accepted at [NeurIPS 2021](https://nips.cc/), including my latest work on [Automatic Unsupervised Outlier Model Selection](https://openreview.net/forum?id=KCd-3Pz8VjM) and 
 the participation in two impactful ML initiatives: (i) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) by {Havard, Gatech, and MIT} and
 (ii) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr) by Rice University.
 
 - **Sep 2021**: Happy to spend my summer (as a member of the [PyG team](https://github.com/pyg-team)) for adding some cool features to [PyTorch Geometric (PyG)](https://www.pyg.org/). Check out [PyG 2.0](https://www.pyg.org/PyG2.0-released)!
-
-- **May-Aug 2021**: Visiting at Standford University in [SNAP](http://snap.stanford.edu/) by [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/).
-
-- **May 2021**: Have a new journal paper titled Copula-Based Outlier Detection under review. It is based on our ICDM’ 20 paper with more theoretical analysis. See [the extended journal version](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-copod-journal.pdf)!
 
 
 ----
