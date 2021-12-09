@@ -5,7 +5,10 @@ I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/pro
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
 Before joining CMU, I was a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
 
-I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
+I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable outlier detection systems to support
+real-world applications. Under my ODSys universe, I designed CPU-based, GPU-based, JIT-optimized, single and distributed systems for OD. 
+
+More specifically, I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
 
 
 I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
