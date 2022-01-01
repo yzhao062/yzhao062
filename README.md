@@ -5,10 +5,10 @@ I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/pro
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
 Before joining CMU, I was a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
 
-I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable outlier detection systems to support
-real-world applications. Under my ODSys universe, I designed CPU-based, GPU-based, JIT-optimized, single and distributed systems for OD. 
+I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
+real-world applications with millons of downloads. Under my ODSys universe, I designed CPU-based, GPU-based, distributed systems for tabular, TS, and graph OD.
 
-More specifically, I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 11,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
+More specifically, I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 12,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
 
 
 I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
@@ -26,19 +26,23 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 😄 **I am open to**:
 
 - collaboration opportunities (anytime & anywhere & any type)
-- paper review, tutorial, workshop, and talk opportunities
-- **Summer Internship**: **Open to ML/Engineering Internship (Summer 2022). Please reach out :)**
+- **paper review**, tutorial, workshop, and talk opportunities
+
 
 📫 **Contact me by**:
 - Email (zhaoy [AT] cmu.edu)
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
+- [微信 @ 阿调](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_breaknever.jpg)
 - [Homepage](https://www.andrew.cmu.edu/user/yuezhao2/)
 
 
 💬 **News & Travel**:
 
-- **Oct 2021**: Have new system out **TOD: Tensor-based Outlier Detection, A General GPU-Accelerated Framework**. with George H. Chen and Zhihao Jia.
+- **Jan 2022**: Have a new preprint called [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) under the 2nd round review at TKDE!
+ECOD is a simple yet effect detection algorithm that is not only accurate but extremely fast with O(nd) complexity.
+
+- **Dec 2021**: Have new system out **TOD: Tensor-based Outlier Detection, A General GPU-Accelerated Framework**. with George H. Chen and Zhihao Jia.
 [Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
 
   - **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
@@ -46,14 +50,7 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
   - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
 
 
-- **Oct 2021**: &#127775; Reached 500 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
-
-- **NeurIPS 2021**: Happy to have multiple papers accepted at [NeurIPS 2021](https://nips.cc/), including my latest work on [Automatic Unsupervised Outlier Model Selection](https://openreview.net/forum?id=KCd-3Pz8VjM) and 
-the participation in two impactful ML initiatives: (i) [Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development](https://openreview.net/forum?id=8nvgnORnoWr) by {Havard, Gatech, and MIT} and
-(ii) [Revisiting Time Series Outlier Detection: Definitions and Benchmarks](https://openreview.net/forum?id=r8IvOsnHchr) by Rice University.
-
-- **Sep 2021**: Happy to spend my summer (as a member of the [PyG team](https://github.com/pyg-team)) for adding some cool features to [PyTorch Geometric (PyG)](https://www.pyg.org/). Check out [PyG 2.0](https://www.pyg.org/PyG2.0-released)!
-
+- **Dec 2021**: &#127775; Reached 600 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
 ----
 
