@@ -39,8 +39,15 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 
 💬 **News & Travel**:
 
+- **Jan 2022**: Will intern at [Microsoft Research (MSR)](https://www.microsoft.com/en-us/research/) in summer 2022 for AutoML with outlier detection.
+And of course, it is remote :)
+
+- **Jan 2022**: Accepted an invite @ [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) to present my recent work on outlier detection.
+
 - **Jan 2022**: Have a new preprint called [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) under the 2nd round review at TKDE!
 ECOD is a simple yet effect detection algorithm that is not only accurate but extremely fast with O(nd) complexity.
+
+- **Dec 2021**: &#127775; Reached 600 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
 - **Dec 2021**: Have new system out **TOD: Tensor-based Outlier Detection, A General GPU-Accelerated Framework**. with George H. Chen and Zhihao Jia.
 [Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
@@ -49,8 +56,6 @@ ECOD is a simple yet effect detection algorithm that is not only accurate but ex
   - &#127775; on average it is **11 times faster than PyOD**!
   - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
 
-
-- **Dec 2021**: &#127775; Reached 600 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
 ----
 
