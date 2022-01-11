@@ -39,8 +39,6 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 
 💬 **News & Travel**:
 
-- **Jan 2022**: Will intern at [Microsoft Research (MSR)](https://www.microsoft.com/en-us/research/) in summer 2022 for AutoML with outlier detection.
-And of course, it is remote :)
 
 - **Jan 2022**: Accepted an invite @ [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) to present my recent work on outlier detection.
 
