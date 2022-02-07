@@ -1,27 +1,46 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-
-I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
+🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
-Before joining CMU, I was a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html).
+Before joining CMU, I earned my Master degree from University of Toronto, and spent two years as senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
+I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
+JMLR, NeurIPS, MLsys, and AAAI. I am also on the conference program committee of KDD, NeurIPS, AAAI, and IJCAI, and reviewing for journals including TPAMI, TKDE, and IoT-J. See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
+
+🤔 **Outlier Detection**: I am organizing **the largest open-source community of outlier detection**, including
+(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (5M downloads, 9th starred data mining projects on GitHub)
+(2) the most watched and starred [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) with hundreds of books, tutorial, and papers (5k+ stars)
+(3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see contact section below for joining).
 
 I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
-real-world applications with millons of downloads. Under my ODSys universe, I designed CPU-based, GPU-based, distributed systems for tabular, TS, and graph OD.
-
-More specifically, I have **led** or **contributed as a core member** [> 10 ML open-source initiatives](https://github.com/yzhao062), receiving 12,000 GitHub stars (top 0.002%: ranked 900 out of 40M GitHub users) and >500,0000 total downloads.
+real-world applications with millions of downloads. Under my ODSys universe, I designed CPU-based, GPU-based, distributed systems for tabular, TS, and graph OD.
 
 
-I specialize in designing and building **machine learning systems**, with realization and applications in outlier detection, healthcare, graph neural networks, and ensemble learning. 
+----
 
-🔭 **Reseach-wise, I mainly focus on**:
 
-* **machine learning systems** that can **speed/scale up** and **automate** underlying algorithms 
-* **data mining algorithms** like **outlier detection** (anomaly detection) and ensemble learning
+🔭 **Research-wise**, I specialize in designing and building *automated*, *scalable*, and *accelerated* **machine learning systems** (MLSys), 
+with realization and applications in **outlier detection**, healthcare, graph neural networks, and ensemble learning.
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection,
 [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems, 
-and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML and statistics. 
+and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) on general ML and statistic methods. 
 Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford University.
+
+----
+
+⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
+receiving 12,000 GitHub stars (top 0.002%: [ranked 900 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >500,0000 total downloads.
+Popular ones:
+* [JMLR] [PyOD](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+* [TOD](https://github.com/yzhao062/pytod): Tensor-based outlier detection--First large-scale GPU-based system for acceleration!
+* [MLSys] [SUOD](https://github.com/yzhao062/SUOD): An Acceleration System for Large-scale Heterogeneous Outlier Detection.
+* [PyTorch Geometric (PyG)](https://www.pyg.org/): Graph Neural Network Library for PyTorch. Contributed to profiler & benchmarking, and heterogeneous data transformation, as a member of the [PyG team](https://github.com/pyg-team).
+* [NeurIPS] [Therapeutics Data Commons (TDC)](https://tdcommons.ai/): An extensive machine learning data hub for drug discovery.
+* [AAAI] [combo](https://github.com/yzhao062/combo): A Python Toolbox for ML Model Combination (Ensemble Learning).
+* [NeurIPS, AAAI] [TODS](https://github.com/datamllab/tods): Time-series Outlier Detection. Contributed to core detection models.
+* [NeurIPS] [MetaOD](https://github.com/yzhao062/metaod): Automatic Unsupervised Outlier Model Selection (AutoML).
+
+----
 
 😄 **I am open to**:
 
@@ -40,6 +59,20 @@ Externally, I am also fortunate to visit and collaborate with [Prof. Jure Leskov
 💬 **News & Travel**:
 
 
+- **Feb 2022**: Invited talk at Tesla for large-scale anomaly detection.
+
+- **Feb 2022**: Propose a new initiative called Detected AI (detected.ai) for large-scale anomaly detection applications. 
+It is still too early to tell, but it will be exciting!
+
+
+- **Feb 2021**: Have new system out **TOD: GPU-accelerated Outlier Detection via Tensor Operations***. with George H. Chen and Zhihao Jia.
+[Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
+
+  - **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
+  - &#127775; on average it is **11 times faster than PyOD**!
+  - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
+
+
 - **Jan 2022**: Accepted an invite @ [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) to present my recent work on outlier detection.
 
 - **Jan 2022**: Have a new preprint called [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) under the 2nd round review at TKDE!
@@ -47,12 +80,7 @@ ECOD is a simple yet effect detection algorithm that is not only accurate but ex
 
 - **Dec 2021**: &#127775; Reached 600 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
-- **Dec 2021**: Have new system out **TOD: Tensor-based Outlier Detection, A General GPU-Accelerated Framework**. with George H. Chen and Zhihao Jia.
-[Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/21-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
 
-  - **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
-  - &#127775; on average it is **11 times faster than PyOD**!
-  - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
 
 
 ----
