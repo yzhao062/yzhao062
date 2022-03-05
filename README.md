@@ -4,15 +4,17 @@
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
 Before joining CMU, I earned my Master degree from University of Toronto, and spent two years as senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
 I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
-JMLR, NeurIPS, MLsys, and AAAI. I am also on the conference program committee of KDD, NeurIPS, AAAI, and IJCAI, and reviewing for journals including TPAMI, TKDE, and IoT-J. See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
+JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am also on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including TPAMI and TKDE.
+See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 🤔 **Outlier Detection**: I am organizing **the largest open-source community of outlier detection**, including
-(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (5M downloads, 9th starred data mining projects on GitHub)
+(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (5M downloads, top 10 data mining projects on GitHub)
 (2) the most watched and starred [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) with hundreds of books, tutorial, and papers (5k+ stars)
 (3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see contact section below for joining).
 
 I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
-real-world applications with millions of downloads. Under my ODSys universe, I designed CPU-based, GPU-based, distributed systems for tabular, TS, and graph OD.
+real-world applications with millions of downloads. I designed CPU-based, GPU-based, distributed detection systems for tabular, time-series, and graph data.
+My work has been used as core pipelines in important projects, e.g., [sktime](https://github.com/alan-turing-institute/sktime) by The Alan Turing Institute.
 
 
 ----
@@ -59,6 +61,13 @@ Popular ones:
 💬 **News & Travel**:
 
 
+- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) is accepted to [TKDE](https://www.computer.org/csdl/journal/tk)!
+ECOD is a simple yet effect detection algorithm that is not only accurate but extremely fast with O(nd) complexity.
+
+- **Feb 2022**: Make to the finalist of The Norton Labs Graduate Fellowship. Finger crossed!
+
+- **Feb 2022**: &#127775; Reached 700 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
+
 - **Feb 2022**: Invited talk at Tesla for large-scale anomaly detection.
 
 - **Feb 2022**: Propose a new initiative called Detected AI (detected.ai) for large-scale anomaly detection applications. 
@@ -74,13 +83,6 @@ It is still too early to tell, but it will be exciting!
 
 
 - **Jan 2022**: Accepted an invite @ [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) to present my recent work on outlier detection.
-
-- **Jan 2022**: Have a new preprint called [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) under the 2nd round review at TKDE!
-ECOD is a simple yet effect detection algorithm that is not only accurate but extremely fast with O(nd) complexity.
-
-- **Dec 2021**: &#127775; Reached 600 citations on [Google scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
-
-
 
 
 ----
