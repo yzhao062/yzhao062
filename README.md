@@ -1,10 +1,11 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/)--the best interdisciplinary research institute in the world. 
-Before joining CMU, I earned my Master degree from University of Toronto, and spent two years as senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/)Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
 I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
-JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am also on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including TPAMI and TKDE.
+JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including TPAMI and TKDE.
+I am a recipient of the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
+(one of the only three graduate students worldwide).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 🤔 **Outlier Detection**: I am organizing **the largest open-source community of outlier detection**, including
@@ -61,10 +62,13 @@ Popular ones:
 💬 **News & Travel**:
 
 
-- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) is accepted to [TKDE](https://www.computer.org/csdl/journal/tk)!
-ECOD is a simple yet effect detection algorithm that is not only accurate but extremely fast with O(nd) complexity.
+- **Mar 2022**: Invited to present at Morgan Stanley for large-scale anomaly detection systems!
 
-- **Feb 2022**: Make to the finalist of The Norton Labs Graduate Fellowship. Finger crossed!
+- **Mar 2022**: &#127881; I received the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) (one of the only three graduate students worldwide).
+Thanks to the selection committee and my advisors!
+
+- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) is accepted to [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk)!
+ECOD is a simple yet effective detection algorithm with extremely fast O(nd) runtime.
 
 - **Feb 2022**: &#127775; Reached 700 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
