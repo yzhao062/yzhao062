@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/)Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/). Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
 I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
 JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including TPAMI and TKDE.
 I am a recipient of the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
@@ -84,9 +84,6 @@ It is still too early to tell, but it will be exciting!
   - **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
   - &#127775; on average it is **11 times faster than PyOD**!
   - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
-
-
-- **Jan 2022**: Accepted an invite @ [Andalusian Research Institute in Data Science and Computational Intelligence (DaSCI)](https://dasci.es/) to present my recent work on outlier detection.
 
 
 ----
