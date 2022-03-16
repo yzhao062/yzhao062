@@ -3,7 +3,7 @@
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/). Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
 I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
-JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including TPAMI and TKDE.
+JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including JMLR, TPAMI, and TKDE.
 I am a recipient of the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
 (one of the only three graduate students worldwide).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
