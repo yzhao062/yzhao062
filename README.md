@@ -14,8 +14,9 @@ See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://ww
 (3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see contact section below for joining).
 
 I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
-real-world applications with millions of downloads. I designed CPU-based, GPU-based, distributed detection systems for tabular, time-series, and graph data.
-My work has been used as core pipelines in important projects, e.g., [sktime](https://github.com/alan-turing-institute/sktime) by The Alan Turing Institute.
+real-world applications in security and finance with millions of downloads. I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)), GPU-based ([TOD](https://github.com/yzhao062/tod)), 
+distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) for tabular, time-series ([TODS](https://github.com/datamllab/tods)), and graph data ([PyGOD](https://github.com/yzhao062/)).
+
 
 
 ----
