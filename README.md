@@ -1,22 +1,26 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/). Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
-I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues including 
-JMLR, TKDE, NeurIPS, MLsys, and AAAI. I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for journals including JMLR, TPAMI, and TKDE.
-I am a recipient of the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/).
+Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
+I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues. 
+Service-wide, I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for JMLR, TPAMI, and TKDE.
+I am a recipient of the 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
 (one of the only three graduate students worldwide).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
-🤔 **Outlier Detection**: I am organizing **the largest open-source community of outlier detection**, including
-(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (5M downloads, top 10 data mining projects on GitHub)
+I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
+real-world applications in security and finance with millions of downloads. 
+I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)), 
+GPU-based ([TOD](https://github.com/yzhao062/tod)), 
+distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) 
+for tabular, time-series ([TODS](https://github.com/datamllab/tods)), 
+and graph data ([PyGOD](https://github.com/yzhao062/)).
+
+**Community**: I am organizing **the largest open-source community of outlier detection**, including
+(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (6M downloads, top 10 data mining projects on GitHub)
 (2) the most watched and starred [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) with hundreds of books, tutorial, and papers (5k+ stars)
 (3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see contact section below for joining).
-
-I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
-real-world applications in security and finance with millions of downloads. I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)), GPU-based ([TOD](https://github.com/yzhao062/tod)), 
-distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) for tabular, time-series ([TODS](https://github.com/datamllab/tods)), and graph data ([PyGOD](https://github.com/yzhao062/)).
-
 
 
 ----
@@ -24,6 +28,11 @@ distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) for tab
 
 🔭 **Research-wise**, I specialize in designing and building *automated*, *scalable*, and *accelerated* **machine learning systems** (MLSys), 
 with realization and applications in **outlier detection**, healthcare, graph neural networks, and ensemble learning.
+
+- Outlier detection systems (JMLR'19, AAAI'21, MLsys'21, NeurIPS'21)
+- Outlier detection algorithms (IJCNN'18, SDM'19, BigData'20, ICDM'20, TKDE'22)
+- Automated outlier detection (NeuIPS'21)
+- AI x Science (AAAI'20, NeuIPS'21)
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) from [DATA Lab](https://datalab.heinz.cmu.edu/) on outlier detection,
 [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) from [Catalyst](https://catalyst.cs.cmu.edu/) on machine learning systems, 
