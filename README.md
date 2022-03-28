@@ -77,7 +77,7 @@ Popular ones:
 - **Mar 2022**: &#127881; I received the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) (one of the only three graduate students worldwide).
 Thanks to the selection committee and my advisors!
 
-- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-ecod.pdf) is accepted to [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk)!
+- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-tkde-ecod.pdf) is accepted to [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk)!
 ECOD is a simple yet effective detection algorithm with extremely fast O(nd) runtime.
 
 - **Feb 2022**: &#127775; Reached 700 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
