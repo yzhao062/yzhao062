@@ -6,7 +6,7 @@ Before joining CMU, I earned my Master degree from University of Toronto, and wo
 I have coauthored more than 20 papers on anomaly detection, automated ML, and machine learning systems in leading venues. 
 Service-wide, I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for JMLR, TPAMI, and TKDE.
 I am a recipient of the 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) 
-(one of the only three graduate students worldwide).
+(one of the two graduate students worldwide).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 I consider myself as an expert in **outlier detection systems** (ODSys)---I build automated, scalable ODSys to support
@@ -15,7 +15,7 @@ I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)),
 GPU-based ([TOD](https://github.com/yzhao062/tod)), 
 distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) 
 for tabular, time-series ([TODS](https://github.com/datamllab/tods)), 
-and graph data ([PyGOD](https://github.com/yzhao062/)).
+and graph data ([PyGOD](https://github.com/pygod-team/pygod)).
 
 **Community**: I am organizing **the largest open-source community of outlier detection**, including
 (1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (6M downloads, top 10 data mining projects on GitHub)
@@ -72,9 +72,12 @@ Popular ones:
 💬 **News & Travel**:
 
 
+- **Apr 2022**: We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
+With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines!
+
 - **Mar 2022**: Invited to present at Morgan Stanley for large-scale anomaly detection systems!
 
-- **Mar 2022**: &#127881; I received the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/careers/graduate-fellowship/) (one of the only three graduate students worldwide).
+- **Mar 2022**: &#127881; I received the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/) (one of the two graduate students worldwide).
 Thanks to the selection committee and my advisors!
 
 - **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-tkde-ecod.pdf) is accepted to [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk)!
