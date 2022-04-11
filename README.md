@@ -47,11 +47,14 @@ Popular ones:
 * [JMLR] [PyOD](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [TOD](https://github.com/yzhao062/pytod): Tensor-based outlier detection--First large-scale GPU-based system for acceleration!
 * [MLSys] [SUOD](https://github.com/yzhao062/SUOD): An Acceleration System for Large-scale Heterogeneous Outlier Detection.
+* [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): The most starred resources (books, courses, etc.)!
 * [PyTorch Geometric (PyG)](https://www.pyg.org/): Graph Neural Network Library for PyTorch. Contributed to profiler & benchmarking, and heterogeneous data transformation, as a member of the [PyG team](https://github.com/pyg-team).
-* [NeurIPS] [Therapeutics Data Commons (TDC)](https://tdcommons.ai/): An extensive machine learning data hub for drug discovery.
+* [Python Graph Outlier Detection (PyGOD)](https://www.pygod.org/): A Python Library for Graph Outlier Detection.
+* [NeurIPS] [Therapeutics Data Commons (TDC)](https://tdcommons.ai/): Machine learning for drug discovery.
 * [AAAI] [combo](https://github.com/yzhao062/combo): A Python Toolbox for ML Model Combination (Ensemble Learning).
 * [NeurIPS, AAAI] [TODS](https://github.com/datamllab/tods): Time-series Outlier Detection. Contributed to core detection models.
 * [NeurIPS] [MetaOD](https://github.com/yzhao062/metaod): Automatic Unsupervised Outlier Model Selection (AutoML).
+
 
 ----
 
@@ -71,6 +74,7 @@ Popular ones:
 
 💬 **News & Travel**:
 
+- **Apr 2022**: [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod) received 300+ stars in a week!
 
 - **Apr 2022**: We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
 With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines!
@@ -84,8 +88,6 @@ Thanks to the selection committee and my advisors!
 ECOD is a simple yet effective detection algorithm with extremely fast O(nd) runtime.
 
 - **Feb 2022**: &#127775; Reached 700 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
-
-- **Feb 2022**: Invited talk at Tesla for large-scale anomaly detection.
 
 - **Feb 2022**: Propose a new initiative called Detected AI (detected.ai) for large-scale anomaly detection applications. 
 It is still too early to tell, but it will be exciting!
