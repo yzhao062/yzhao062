@@ -74,10 +74,11 @@ Popular ones:
 
 💬 **News & Travel**:
 
-- **Apr 2022**: [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod) received 300+ stars in a week!
+- **Apr 2022**: &#127775; Reached 800 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
-- **Apr 2022**: We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
-With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines!
+- **Apr 2022**: [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod) received 400+ stars in a week! 
+We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
+With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines! See [paper](https://arxiv.org/abs/2204.12095) here!
 
 - **Mar 2022**: Invited to present at Morgan Stanley for large-scale anomaly detection systems!
 
