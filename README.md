@@ -16,13 +16,13 @@ distributed detection systems ([SUOD](https://github.com/yzhao062/suod))
 for tabular ([PyOD](https://github.com/yzhao062/pyod)), time-series ([TODS](https://github.com/datamllab/tods)), 
 and graph data ([PyGOD](https://github.com/pygod-team/pygod)).
 
-🔭 **Research outcomes**:
+🔭 **Research outcomes** (related to outlier detection if not specified):
 
-| **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	|
+| **Primary field**               | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	  |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
-| **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
-| **machine learning systems**   	| **benchmark**              	| TODS          	| 2021     	| NeurIPS       |                    	|
+| **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI        |                    	|
+| **machine learning systems**   	| **benchmark**               	| TODS          	| 2021     	| NeurIPS     |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
 | **machine learning systems**   	| **distributed systems**  	    | TOD           	| 2022     	| Preprint   	| Y                  	|
 | **machine learning systems**   	| **graph neural networks**    	| PyGOD         	| 2022     	| Preprint   	| Y                  	|
@@ -38,12 +38,6 @@ and graph data ([PyGOD](https://github.com/pygod-team/pygod)).
 | **AI x Science**               	|                              	| CIBS          	| 2020     	| BIBM       	|                    	|
 | **AI x Science**               	|                              	| PyHealth      	| 2020     	| Preprint   	| Y                  	|
 | **AI x Science**               	| **benchmark**                	| TDC           	| 2021     	| NeurIPS    	|                    	|
-
-
-**Community**: I am organizing **the largest open-source community of outlier detection**, including
-(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (6M downloads, top 10 data mining projects on GitHub)
-(2) the most watched and starred [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) with hundreds of books, tutorial, and papers (5k+ stars)
-(3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see contact section below for joining).
 
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) ([DATA Lab](https://datalab.heinz.cmu.edu/)),
@@ -68,11 +62,6 @@ Popular ones:
 * [combo](https://github.com/yzhao062/combo): A Python Toolbox for ML Model Combination (Ensemble Learning).
 * [TODS](https://github.com/datamllab/tods): Time-series Outlier Detection. Contributed to core detection models.
 * [MetaOD](https://github.com/yzhao062/metaod): Automatic Unsupervised Outlier Model Selection (AutoML).
-
-**Community**: I am organizing **the largest open-source community of outlier detection**, including
-(1) the most popular detection system [PyOD](https://github.com/yzhao062/pyod) (6M downloads, top 10 data mining projects on GitHub)
-(2) the most watched and starred [Anomaly Detection Resources](https://github.com/yzhao062/anomaly-detection-resources) with hundreds of books, tutorial, and papers (5k+ stars)
-(3) the discussion groups with hundreds of outlier detection researchers and practitioners from MIT, Meta, and more (see note [#1] below).
 
 
 📫 **Contact me by**:
