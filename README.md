@@ -1,25 +1,28 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at [Heinz College](https://www.heinz.cmu.edu/programs/phd-programs/), 
+🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
-Before joining CMU, I earned my Master degree from University of Toronto, and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html). 
-I have coauthored more than 20 papers on anomaly detection, graph neural networks, automated ML, and machine learning systems in leading venues. 
-Service-wide, I am on the conference program committee of KDD, AAAI, and IJCAI, and reviewing for JMLR, TPAMI, and TKDE.
-I am one of the two recipients of the 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+Before joining CMU, I earned my Master degree from University of Toronto (2016), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2019). 
+I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
+with more than 7 year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
+My research is partly supported by [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
-**Outlier detection systems (ODSys)**: I build automated, scalable, and accelerated **machine learning systems (MLSys)** to support large-scale 
-real-world outlier detection applications in security, finance, and healthcare with millions of downloads. 
+**Contributions to outlier detection systems and applications**: I build automated, scalable, and accelerated **machine learning systems (MLSys)** to support **large-scale, 
+real-world outlier detection applications** in security, finance, and healthcare with millions of downloads. 
 I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)), 
 GPU-based ([TOD](https://github.com/yzhao062/tod)), 
 distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) 
 for tabular ([PyOD](https://github.com/yzhao062/pyod)), time-series ([TODS](https://github.com/datamllab/tods)), 
-and graph data ([PyGOD](https://github.com/pygod-team/pygod)).
+and graph data ([PyGOD](https://github.com/pygod-team/pygod)). 
+My work has been widely used by thousands of projects, including leading firms like IBM, Morgan Stanley, and Tesla. See [more applications](https://github.com/yzhao062/pyod/network/dependents).
+
 
 🔭 **Research outcomes** (related to outlier detection if not specified):
 
 | **Primary field**               | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	  |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
+| **large-scale Benchmark**      	| **anomaly detection**         | ADBench         | 2022     	| Preprint    | Y                  	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI        |                    	|
 | **machine learning systems**   	| **benchmark**               	| TODS          	| 2021     	| NeurIPS     |                    	|
@@ -34,10 +37,10 @@ and graph data ([PyGOD](https://github.com/pygod-team/pygod)).
 | **automated machine learning** 	| **graph mining**             	| AutoAudit     	| 2022     	| BigData    	|                    	|
 | **automated machine learning** 	|                              	| MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
 | **graph neural networks**      	| **contrastive learning**     	| CONAD         	| 2022     	| PAKDD      	|                    	|
-| **AI x Science**               	| **benchmark**                	| HR manage.     	| 2018     	| Intellisys 	| Y                  	|
+| **AI x Science**               	| **large-scale Benchmark**     | HR manage.     	| 2018     	| Intellisys 	| Y                  	|
 | **AI x Science**               	|                              	| CIBS          	| 2020     	| BIBM       	|                    	|
 | **AI x Science**               	|                              	| PyHealth      	| 2020     	| Preprint   	| Y                  	|
-| **AI x Science**               	| **benchmark**                	| TDC           	| 2021     	| NeurIPS    	|                    	|
+| **AI x Science**               	| **large-scale Benchmark**     | TDC           	| 2021     	| NeurIPS    	|                    	|
 
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) ([DATA Lab](https://datalab.heinz.cmu.edu/)),
@@ -50,9 +53,10 @@ Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~ju
 ----
 
 ⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
-receiving 13,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >8,000,000 total downloads.
+receiving 13,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
 Popular ones:
 * [PyOD](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
+* [ADBench](https://github.com/Minqi824/ADBench): The most comprehensive tabular anomaly detection benchmark (30 anomaly detection algorithms on 55 benchmark datasets).
 * [TOD](https://github.com/yzhao062/pytod): Tensor-based outlier detection--First large-scale GPU-based system for acceleration!
 * [SUOD](https://github.com/yzhao062/SUOD): An Acceleration System for Large-scale Heterogeneous Outlier Detection.
 * [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): The most starred resources (books, courses, etc.)!
@@ -76,21 +80,25 @@ Popular ones:
 
 💬 **News ~& Travel~**:
 
-- **May 2022**: Invited to present at Morgan Stanley for automated outlier detection!
+- **Jun 2022**: We just released a 36-page, the most comprehensive anomaly detection benchmark paper. 
+[The fully open-sourced ADBench](https://github.com/Minqi824/ADBench) compares 30 anomaly detection algorithms on 55 benchmark datasets.
+Please star, fork, and follow for the latest update!
+See [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf) here!
 
-- **Apr 2022**: &#127775; Reached 800 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
+- **Jun 2022**: Have a new system out **TOD: GPU-accelerated Outlier Detection via Tensor Operations**. with George H. Chen and Zhihao Jia.
+[Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
+
+- **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
+  - &#127775; on average it is **11 times faster than PyOD**!
+  - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
+
+- **Jun 2022**: &#127775; Reached 900 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
+
+- **May 2022**: Invited to present at Morgan Stanley for automated outlier detection!
 
 - **Apr 2022**: [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod) received 400+ stars in a week! 
 We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
 With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines! See [paper](https://arxiv.org/abs/2204.12095) here!
-
-- **Mar 2022**: Invited to present at Morgan Stanley for large-scale anomaly detection systems!
-
-- **Mar 2022**: &#127881; I received the prestigious 2022 [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/) (one of the two graduate students worldwide).
-Thanks to the selection committee and my advisors!
-
-- **Mar 2022**: [ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-tkde-ecod.pdf) is accepted to [IEEE Transactions on Knowledge and Data Engineering (TKDE)](https://www.computer.org/csdl/journal/tk)!
-ECOD is a simple yet effective detection algorithm with extremely fast O(nd) runtime.
 
 
 ----
