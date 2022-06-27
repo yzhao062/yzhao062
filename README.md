@@ -22,13 +22,13 @@ My work has been widely used by thousands of *projects and applications*, includ
 
 🔭 **Research outcomes** (related to outlier detection if not specified):
 
-| **Primary field**               | **Secondary**                 | **Method**      | **Year** 	| **Venue**  	| **Lead author** 	  |
+| **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	    |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
-| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench         | 2022     	| Preprint    | Y                  	|
-| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint    | Y                  	|
+| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| Preprint      | Y                  	|
+| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint      | Y                  	|
+| **large-scale Benchmark**       	| **time series**              	| TODS          	| 2021     	| NeurIPS       |                    	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
-| **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI        |                    	|
-| **large-scale Benchmark**       | **time series**               | TODS          	| 2021     	| NeurIPS     |                    	|
+| **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
 | **machine learning systems**   	| **distributed systems**  	    | TOD           	| 2022     	| Preprint   	| Y                  	|
 | **machine learning systems**   	| **graph neural networks**    	| PyGOD         	| 2022     	| Preprint   	| Y                  	|
@@ -39,10 +39,13 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **ensemble learning**          	| **interpretable ML**         	| ECOD          	| 2022     	| TKDE       	| Y                  	|
 | **automated machine learning** 	| **graph mining**             	| AutoAudit     	| 2022     	| BigData    	|                    	|
 | **automated machine learning** 	|                              	| MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
+| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2021     	| Preprint    	| Y                  	|
 | **graph neural networks**      	| **contrastive learning**     	| CONAD         	| 2022     	| PAKDD      	|                    	|
 | **AI x Science**               	| **large-scale Benchmark**     | HR manage.     	| 2018     	| Intellisys 	| Y                  	|
-| **AI x Science**               	|                              	| CIBS          	| 2020     	| BIBM       	|                    	|
-| **AI x Science**               	|                              	| PyHealth      	| 2020     	| Preprint   	| Y                  	|
+| **AI x Science**               	| **super-resolution**          | DRS          	    | 2020     	| ICME       	|                    	|
+| **AI x Science**               	| **single-cell**               | CIBS          	| 2020     	| BIBM       	|                    	|
+| **AI x Science**               	| **synthetic data**            | SynC              | 2020     	| ICDMW       	|                    	|
+| **AI x Science**               	| **healthcare AI**             | PyHealth      	| 2020     	| Preprint   	| Y                  	|
 | **AI x Science**               	| **large-scale Benchmark**     | TDC           	| 2021     	| NeurIPS    	|                    	|
 
 
