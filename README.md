@@ -8,24 +8,27 @@ with more than 7 year professional experience and 20+ papers (in JMLR, TKDE, Neu
 My research is partly supported by [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
-**Contributions to outlier detection systems and applications**: I build automated, scalable, and accelerated **machine learning systems (MLSys)** to support **large-scale, 
-real-world outlier detection applications** in security, finance, and healthcare with millions of downloads. 
+**Contributions to outlier detection systems, benchmarks, and applications**: I build automated, scalable, and accelerated *machine learning systems (MLSys)* to support large-scale, 
+real-world outlier detection applications in security, finance, and healthcare with millions of downloads. 
 I designed CPU-based ([PyOD](https://github.com/yzhao062/pyod)), 
 GPU-based ([TOD](https://github.com/yzhao062/tod)), 
 distributed detection systems ([SUOD](https://github.com/yzhao062/suod)) 
 for tabular ([PyOD](https://github.com/yzhao062/pyod)), time-series ([TODS](https://github.com/datamllab/tods)), 
 and graph data ([PyGOD](https://github.com/pygod-team/pygod)). 
-My work has been widely used by thousands of projects, including leading firms like IBM, Morgan Stanley, and Tesla. See [more applications](https://github.com/yzhao062/pyod/network/dependents).
+To understand the characteristics of OD algorithms, I co-author *large-scale benchmarks* for tabular data ([ADBench](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf)),
+time-series data ([paper](https://openreview.net/forum?id=r8IvOsnHchr)), and graph data ([UNOD](https://arxiv.org/abs/2206.10071)).
+My work has been widely used by thousands of *projects and applications*, including leading firms like IBM, Morgan Stanley, and Tesla. See [more applications](https://github.com/yzhao062/pyod/network/dependents).
 
 
 🔭 **Research outcomes** (related to outlier detection if not specified):
 
-| **Primary field**               | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	  |
+| **Primary field**               | **Secondary**                 | **Method**      | **Year** 	| **Venue**  	| **Lead author** 	  |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
-| **large-scale Benchmark**      	| **anomaly detection**         | ADBench         | 2022     	| Preprint    | Y                  	|
+| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench         | 2022     	| Preprint    | Y                  	|
+| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint    | Y                  	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI        |                    	|
-| **machine learning systems**   	| **benchmark**               	| TODS          	| 2021     	| NeurIPS     |                    	|
+| **large-scale Benchmark**       | **time series**               | TODS          	| 2021     	| NeurIPS     |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
 | **machine learning systems**   	| **distributed systems**  	    | TOD           	| 2022     	| Preprint   	| Y                  	|
 | **machine learning systems**   	| **graph neural networks**    	| PyGOD         	| 2022     	| Preprint   	| Y                  	|
@@ -84,6 +87,11 @@ Popular ones:
 [The fully open-sourced ADBench](https://github.com/Minqi824/ADBench) compares 30 anomaly detection algorithms on 55 benchmark datasets.
 Please star, fork, and follow for the latest update!
 See [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf) here!
+
+- **Jun 2022**: We just released the first node-level graph outlier detection benchmark paper. 
+[PyGOD Benchmark](https://github.com/pygod-team/pygod/tree/main/benchmark) compares 10+ graph outlier detection algorithms with many new insights!
+Please star, fork, and follow for the latest update!
+See [paper](https://arxiv.org/abs/2206.10071) here!
 
 - **Jun 2022**: Have a new system out **TOD: GPU-accelerated Outlier Detection via Tensor Operations**. with George H. Chen and Zhihao Jia.
 [Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
