@@ -1,11 +1,11 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a third-year Ph.D. student at 
+🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a rising 4-th year Ph.D. student at 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
-Before joining CMU, I earned my Master degree from University of Toronto (2016), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2019). 
+Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
 I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
 with more than 7 year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
-My research is partly supported by [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+I appreciate the support by [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 **Contributions to outlier detection systems, benchmarks, and applications**: I build automated, scalable, and accelerated *machine learning systems (MLSys)* to support large-scale, 
@@ -86,6 +86,12 @@ Popular ones:
 
 💬 **News ~& Travel~**:
 
+- **Jul 2022**: &#127775; Reached 1000 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
+
+- **Jul 2022**: Invited talk on anomaly detection for risk modeling at Wells Fargo.
+
+- **Jul 2022**: Invited guest lecture on anomaly detection (e.g., [PyOD](https://github.com/yzhao062/pyod)) for Master of the Applied Analytics at Columbia University.
+
 - **Jun 2022**: We just released a 36-page, the most comprehensive anomaly detection benchmark paper. 
 [The fully open-sourced ADBench](https://github.com/Minqi824/ADBench) compares 30 anomaly detection algorithms on 55 benchmark datasets.
 Please star, fork, and follow for the latest update!
@@ -96,20 +102,6 @@ See [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.
 Please star, fork, and follow for the latest update!
 See [paper](https://arxiv.org/abs/2206.10071) here!
 
-- **Jun 2022**: Have a new system out **TOD: GPU-accelerated Outlier Detection via Tensor Operations**. with George H. Chen and Zhihao Jia.
-[Preprint](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-tod.pdf), [Code being released](https://github.com/yzhao062/pytod)
-
-- **TOD** is the **first** fast, comprehensive, GPU-based outlier detection system. 
-  - &#127775; on average it is **11 times faster than PyOD**!
-  - &#127775; it supports various OD algorithms, e,g., kNN, LOF, ABOD, HBOS, etc.
-
-- **Jun 2022**: &#127775; Reached 900 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
-
-- **May 2022**: Invited to present at Morgan Stanley for automated outlier detection!
-
-- **Apr 2022**: [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod) received 400+ stars in a week! 
-We released [PyGOD (Python Graph Outlier Detection)](https://github.com/pygod-team/pygod). 
-With PyGOD, you could do anomaly detection with the latest graph neural networks in 5 lines! See [paper](https://arxiv.org/abs/2204.12095) here!
 
 
 ----
