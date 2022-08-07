@@ -4,8 +4,8 @@
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
 Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
 I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
-with more than 7 year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
-I appreciate the support by [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+with more than 7-year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
+I appreciate the support from [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 **Contributions to outlier detection systems, benchmarks, and applications**: I build automated, scalable, and accelerated *machine learning systems (MLSys)* to support large-scale, 
@@ -26,7 +26,7 @@ My work has been widely used by thousands of *projects and applications*, includ
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
 | **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| Preprint      | Y                  	|
 | **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint      | Y                  	|
-| **large-scale Benchmark**       	| **time series**              	| TODS          	| 2021     	| NeurIPS       |                    	|
+| **large-scale Benchmark**       	| **sequence anomaly detection**| TODS          	| 2021     	| NeurIPS       |                    	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
@@ -46,7 +46,8 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **AI x Science**               	| **single-cell**               | CIBS          	| 2020     	| BIBM       	|                    	|
 | **AI x Science**               	| **synthetic data**            | SynC              | 2020     	| ICDMW       	|                    	|
 | **AI x Science**               	| **healthcare AI**             | PyHealth      	| 2020     	| Preprint   	| Y                  	|
-| **AI x Science**               	| **large-scale Benchmark**     | TDC           	| 2021     	| NeurIPS    	|                    	|
+| **AI x Science**               	| **Datasets & Benchmark**      | TDC           	| 2021     	| NeurIPS    	|                    	|
+| **AI x Science**               	| **Datasets & Benchmark**      | TDC V2           	| 2022     	| NCHEMB    	|                    	|
 
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) ([DATA Lab](https://datalab.heinz.cmu.edu/)),
