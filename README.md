@@ -67,9 +67,9 @@ Popular ones:
 * [TOD](https://github.com/yzhao062/pytod): Tensor-based outlier detection--First large-scale GPU-based system for acceleration!
 * [SUOD](https://github.com/yzhao062/SUOD): An Acceleration System for Large-scale Heterogeneous Outlier Detection.
 * [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources): The most starred resources (books, courses, etc.)!
-* [PyTorch Geometric (PyG)](https://www.pyg.org/): Graph Neural Network Library for PyTorch. Contributed to profiler & benchmarking, and heterogeneous data transformation, as a member of the [PyG team](https://github.com/pyg-team).
 * [Python Graph Outlier Detection (PyGOD)](https://www.pygod.org/): A Python Library for Graph Outlier Detection.
 * [Therapeutics Data Commons (TDC)](https://tdcommons.ai/): Machine learning for drug discovery.
+* [PyTorch Geometric (PyG)](https://www.pyg.org/): Graph Neural Network Library for PyTorch. Contributed to profiler & benchmarking, and heterogeneous data transformation.
 * [combo](https://github.com/yzhao062/combo): A Python Toolbox for ML Model Combination (Ensemble Learning).
 * [TODS](https://github.com/datamllab/tods): Time-series Outlier Detection. Contributed to core detection models.
 * [MetaOD](https://github.com/yzhao062/metaod): Automatic Unsupervised Outlier Model Selection (AutoML).
