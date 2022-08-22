@@ -40,13 +40,10 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **ensemble learning**          	| **machine learning systems** 	| combo         	| 2020     	| AAAI       	| Y                  	|
 | **ensemble learning**          	| **interpretable ML**         	| COPOD         	| 2020     	| ICDM       	| Y                  	|
 | **ensemble learning**          	| **interpretable ML**         	| ECOD          	| 2022     	| TKDE       	| Y                  	|
-| **automated machine learning** 	| **graph mining**             	| AutoAudit     	| 2022     	| BigData    	|                    	|
-| **automated machine learning** 	|                              	| MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
+| **automated machine learning** 	| **tabular anomaly detection** | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
+| **automated machine learning** 	| **graph mining**             	| AutoAudit     	| 2020     	| BigData    	|                    	|
 | **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2021     	| Preprint    	| Y                  	|
 | **graph neural networks**      	| **contrastive learning**     	| CONAD         	| 2022     	| PAKDD      	|                    	|
-| **AI x Science**               	| **large-scale Benchmark**     | HR manage.     	| 2018     	| Intellisys 	| Y                  	|
-| **AI x Science**               	| **super-resolution**          | DRS          	    | 2020     	| ICME       	|                    	|
-| **AI x Science**               	| **single-cell**               | CIBS          	| 2020     	| BIBM       	|                    	|
 | **AI x Science**               	| **synthetic data**            | SynC              | 2020     	| ICDMW       	|                    	|
 | **AI x Science**               	| **healthcare AI**             | PyHealth      	| 2020     	| Preprint   	| Y                  	|
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC           	| 2021     	| NeurIPS    	|                    	|
