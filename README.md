@@ -1,5 +1,8 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
+😄 **I will be on the market soon** (I can work in the U.S., Canada, and China without sponsorship). 
+Please reach out if you have an open opportunity in either academia or industry! Please reach out by email (zhaoy [AT] cmu.edu)
+
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a rising 4-th year Ph.D. student at 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
 Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
