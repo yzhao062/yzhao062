@@ -1,7 +1,7 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-😄 **I will be on the market soon** (I can work in the U.S., Canada, and China without sponsorship). 
-Please reach out if you have an open opportunity in either academia or industry! Please reach out by email (zhaoy [AT] cmu.edu)
+😄 **I am on the market with expected graduation in Summer 2023**. I am broadly interested in *machine learning*, *data mining and science*, and *information science and systems* positions.
+I can work in the U.S., Canada, and China without sponsorship; please reach out if you have an open opportunity in either academia or industry!  Please reach out by email (zhaoy [AT] cmu.edu)
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a rising 4-th year Ph.D. student at 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
@@ -30,6 +30,10 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| Preprint      | Y                  	|
 | **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint      | Y                  	|
 | **large-scale Benchmark**       	| **sequence anomaly detection**| TODS          	| 2021     	| NeurIPS       |                    	|
+| **automated machine learning** 	| **outlier model selection**   | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
+| **automated machine learning** 	| **outlier model selection**   | ELECT         	| 2022     	| ICDM      	| Y                  	|
+| **automated machine learning** 	| **outlier HP optimization**   | HPOD          	| 2022     	| Preprint      | Y                  	|
+| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2021     	| Preprint    	| Y                  	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
@@ -40,27 +44,26 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **ensemble learning**          	| **machine learning systems** 	| combo         	| 2020     	| AAAI       	| Y                  	|
 | **ensemble learning**          	| **interpretable ML**         	| COPOD         	| 2020     	| ICDM       	| Y                  	|
 | **ensemble learning**          	| **interpretable ML**         	| ECOD          	| 2022     	| TKDE       	| Y                  	|
-| **automated machine learning** 	| **tabular anomaly detection** | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
-| **automated machine learning** 	| **graph mining**             	| AutoAudit     	| 2020     	| BigData    	|                    	|
-| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2021     	| Preprint    	| Y                  	|
+| **graph mining** 	                | **finance**               	| AutoAudit     	| 2020     	| BigData    	|                    	|
 | **graph neural networks**      	| **contrastive learning**     	| CONAD         	| 2022     	| PAKDD      	|                    	|
+| **Diffusion Models**              | **survey**                    |                   | 2022      | Preprint      |                       |
 | **AI x Science**               	| **synthetic data**            | SynC              | 2020     	| ICDMW       	|                    	|
 | **AI x Science**               	| **healthcare AI**             | PyHealth      	| 2020     	| Preprint   	| Y                  	|
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC           	| 2021     	| NeurIPS    	|                    	|
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC V2           	| 2022     	| NCHEMB    	|                    	|
 
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) ([DATA Lab](https://datalab.heinz.cmu.edu/)),
-[Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) ([Catalyst](https://catalyst.cs.cmu.edu/)), 
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/),
+[Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2), 
 and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/). 
-Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford University and 
-[Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University.
+Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford, [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University, and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+
 
 
 ----
 
 ⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
-receiving 13,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
+receiving 14,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
 Popular ones:
 * [PyOD](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [ADBench](https://github.com/Minqi824/ADBench): The most comprehensive tabular anomaly detection benchmark (30 anomaly detection algorithms on 55 benchmark datasets).
@@ -86,6 +89,10 @@ Popular ones:
 ----
 
 💬 **News ~& Travel~**:
+
+- **Sep 2022**: Check out our [comprehensive survey on diffusion models](https://arxiv.org/abs/2209.00796). Star the [code repo](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)!
+
+- **Aug 2022**: [ELECT: Toward Unsupervised Outlier Model Selection]() is accepted to [IEEE International Conference on Data Mining (ICDM)](https://icdm22.cse.usf.edu/) as a regular paper!
 
 - **Jul 2022**: &#127775; Reached 1000 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
