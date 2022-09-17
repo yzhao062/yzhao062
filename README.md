@@ -27,8 +27,8 @@ My work has been widely used by thousands of *projects and applications*, includ
 
 | **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	    |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
-| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| Preprint      | Y                  	|
-| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| Preprint      | Y                  	|
+| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| NeurIPS       | Y                  	|
+| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| NeurIPS       | Y                  	|
 | **large-scale Benchmark**       	| **sequence anomaly detection**| TODS          	| 2021     	| NeurIPS       |                    	|
 | **automated machine learning** 	| **outlier model selection**   | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
 | **automated machine learning** 	| **outlier model selection**   | ELECT         	| 2022     	| ICDM      	| Y                  	|
@@ -90,6 +90,8 @@ Popular ones:
 
 💬 **News ~& Travel~**:
 
+- **Sep 2022**: Two *large-scale anomaly detection benchmarks* for tabular data ([ADBench](https://openreview.net/forum?id=foA_SFQ9zo0)) and graph data ([UNOD](https://openreview.net/forum?id=YXvGXEmtZ5N)) accepted at NeurIPS 2022. Must read!!!
+
 - **Sep 2022**: Check out our [comprehensive survey on diffusion models](https://arxiv.org/abs/2209.00796). Star the [code repo](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)!
 
 - **Aug 2022**: [ELECT: Toward Unsupervised Outlier Model Selection]() is accepted to [IEEE International Conference on Data Mining (ICDM)](https://icdm22.cse.usf.edu/) as a regular paper!
@@ -99,17 +101,6 @@ Popular ones:
 - **Jul 2022**: Invited talk on anomaly detection for risk modeling at Wells Fargo.
 
 - **Jul 2022**: Invited guest lecture on anomaly detection (e.g., [PyOD](https://github.com/yzhao062/pyod)) for Master of the Applied Analytics at Columbia University.
-
-- **Jun 2022**: We just released a 36-page, the most comprehensive anomaly detection benchmark paper. 
-[The fully open-sourced ADBench](https://github.com/Minqi824/ADBench) compares 30 anomaly detection algorithms on 55 benchmark datasets.
-Please star, fork, and follow for the latest update!
-See [paper](https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf) here!
-
-- **Jun 2022**: We just released the first node-level graph outlier detection benchmark paper. 
-[PyGOD Benchmark](https://github.com/pygod-team/pygod/tree/main/benchmark) compares 10+ graph outlier detection algorithms with many new insights!
-Please star, fork, and follow for the latest update!
-See [paper](https://arxiv.org/abs/2206.10071) here!
-
 
 
 ----
