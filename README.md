@@ -4,7 +4,7 @@
 I can work in the U.S., Canada, and China without sponsorship; please reach out if you have an open opportunity in either academia or industry!  Please reach out by email (zhaoy [AT] cmu.edu)
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a rising 4-th year Ph.D. student at 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/), and a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) and [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/).
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/).
 Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
 I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
 with more than 7-year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
@@ -13,7 +13,8 @@ See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://ww
 
 At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/),
 [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2), 
-and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/). 
+and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/).
+I am a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) and [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/).
 Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford, [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University, and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
 
 
