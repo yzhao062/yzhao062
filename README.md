@@ -4,12 +4,18 @@
 I can work in the U.S., Canada, and China without sponsorship; please reach out if you have an open opportunity in either academia or industry!  Please reach out by email (zhaoy [AT] cmu.edu)
 
 🌱 **Short Bio**: My name is Yue ZHAO (赵越 in Chinese). I am a rising 4-th year Ph.D. student at 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/).
+[Carnegie Mellon University (CMU)](https://www.cmu.edu/), and a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) and [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/).
 Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
 I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
 with more than 7-year professional experience and 20+ papers (in JMLR, TKDE, NeurIPS, etc.). 
 I appreciate the support from [Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
+
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/),
+[Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2), 
+and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/). 
+Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford, [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University, and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+
 
 **Contributions to outlier detection systems, benchmarks, and applications**: I build automated, scalable, and accelerated *machine learning systems (MLSys)* to support large-scale, 
 real-world outlier detection applications in security, finance, and healthcare with millions of downloads. 
@@ -53,12 +59,6 @@ My work has been widely used by thousands of *projects and applications*, includ
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC V2           	| 2022     	| NCHEMB    	|                    	|
 
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/),
-[Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2), 
-and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/). 
-Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford, [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University, and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
-
-
 
 ----
 
@@ -90,7 +90,9 @@ Popular ones:
 
 💬 **News ~& Travel~**:
 
-- **Sep 2022**: Two *large-scale anomaly detection benchmarks* for tabular data ([ADBench](https://openreview.net/forum?id=foA_SFQ9zo0)) and graph data ([UNOD](https://openreview.net/forum?id=YXvGXEmtZ5N)) accepted at NeurIPS 2022. Must read!!!
+- **Sep 2022**: Two *large-scale anomaly detection benchmarks* for tabular data ([ADBench](https://openreview.net/forum?id=foA_SFQ9zo0)) and graph data ([UNOD](https://openreview.net/forum?id=YXvGXEmtZ5N)) accepted at NeurIPS 2022. 
+
+  - [ADBench](https://openreview.net/forum?id=foA_SFQ9zo0) is arguably my most important work---this 45-page paper contains the analysis results on 30 algorithms on 57 datasets, with around 100,000 experiments. If you are doing anomaly detection, I believe this is a must-read.
 
 - **Sep 2022**: Check out our [comprehensive survey on diffusion models](https://arxiv.org/abs/2209.00796). Star the [code repo](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)!
 
@@ -98,9 +100,6 @@ Popular ones:
 
 - **Jul 2022**: &#127775; Reached 1000 citations on [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)!
 
-- **Jul 2022**: Invited talk on anomaly detection for risk modeling at Wells Fargo.
-
-- **Jul 2022**: Invited guest lecture on anomaly detection (e.g., [PyOD](https://github.com/yzhao062/pyod)) for Master of the Applied Analytics at Columbia University.
 
 
 ----
