@@ -3,18 +3,19 @@
 😄 **I am on the market with expected graduation in Summer 2023**. I am broadly interested in *machine learning*, *data mining and science*, and *information science and systems* positions.
 I can work in the U.S., Canada, and China without sponsorship; please reach out if you have an open opportunity in either academia or industry!  Please reach out by email (zhaoy [AT] cmu.edu)
 
-🌱 **Short Bio**: I am a 4-th (final) year Ph.D. student at 
+🌱 **Short Bio**: I am a 4-th (final) year Ph.D. candidate at 
 [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
-Before joining CMU, I earned my Master degree from University of Toronto (2016) and Bachelor degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
-I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and its applications in security, healthcare, and Finance, 
-with more than 7-year professional experience and 30+ papers (in JMLR, TKDE, VLDB, NeurIPS, etc.). 
-I am honored to be one of the two winners of [2022 Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/). See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
+Before joining CMU, I earned my MS degree from University of Toronto (2016) and BS degree from University of Cincinnati (2015), and worked as a senior consultant at [PwC Canada](https://www.pwc.com/ca/en.html) (2016-19). 
+I am an expert on anomaly detection (a.k.a outlier detection) algorithms, systems, and applications in security, healthcare, and Finance.
+My research outcomes have yielded 30+ papers (in JMLR, TKDE, VLDB, NeurIPS, etc.). 
+I am a winner of [2022 Norton Labs Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/),
-[Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2), 
+At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/), [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2),
 and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/).
-I am a member of [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/) and [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/).
-Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford, [Prof. Xia "Ben" Hu](https://cs.rice.edu/~xh37/index.html) at Rice University, and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/).
+Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+
 
 
 **Contributions to reproducible, automated, and scalable outlier detection**: 
@@ -36,7 +37,7 @@ Amazon, IBM, Morgan Stanley, and Tesla. See [more applications](https://github.c
 | **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	    |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
 | **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| NeurIPS       | Y                  	|
-| **large-scale Benchmark**      	| **graph anomaly detection**   | UNOD          	| 2022     	| NeurIPS       | Y                  	|
+| **large-scale Benchmark**      	| **graph anomaly detection**   | BOND          	| 2022     	| NeurIPS       | Y                  	|
 | **large-scale Benchmark**       	| **sequence anomaly detection**| TODS          	| 2021     	| NeurIPS       |                    	|
 | **automated machine learning** 	| **outlier model selection**   | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
 | **automated machine learning** 	| **outlier model selection**   | ELECT         	| 2022     	| ICDM      	| Y                  	|
@@ -65,7 +66,7 @@ Amazon, IBM, Morgan Stanley, and Tesla. See [more applications](https://github.c
 ----
 
 ⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
-receiving 14,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
+receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
 Popular ones:
 * [PyOD](https://github.com/yzhao062/pyod): A Python Toolbox for Scalable Outlier Detection (Anomaly Detection).
 * [ADBench](https://github.com/Minqi824/ADBench): The most comprehensive tabular anomaly detection benchmark (30 anomaly detection algorithms on 55 benchmark datasets).
