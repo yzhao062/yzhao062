@@ -1,26 +1,24 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-😄 **I am on the market with expected graduation in Summer 2023**. I am broadly interested in *machine learning*, *data mining/science*, and *information systems* positions.{{< /hl >}}
-I am a lawful permanent resident of the U.S., Canada, and China. Please reach out by email (zhaoy [AT] cmu.edu)
+😄 I am on the market with expected graduation in Spring 2023. I am broadly interested in *machine learning (ML)*, *data mining/science*, and *information systems* positions. I am a permanent resident of the U.S., Canada, and China.
 
-🌱 **Short Bio**: I will graduate from 
-[Carnegie Mellon University (CMU)](https://www.cmu.edu/) in June 2022 (finishing up in 4 years).
-I am an expert on unsupervised machine learning, anomaly detection (a.k.a outlier detection), machine learning systems (MLSys), and
-automated machine learning (AutoML), with more than 7-year professional experience and 30+
-papers (in JMLR, NeurIPS, VLDB, MLsys, etc.) 
-I appreciate the support from CMU [Presidential Fellowship](https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/university.html) and [Norton Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+🌱 **Short Bio**: In June 2022, I will finish my Ph.D. in four years at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), with the support from the CMU [Presidential Fellowship](https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/university.html) and [Norton Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
+**My research automates and accelerates unsupervised ML**: (1) how to automate unsupervised ML model selection and (2) how to support large-scale learning tasks,
+See the overview below.
 
-At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated data mining**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**,
+![Research Overview](https://www.andrew.cmu.edu/user/yuezhao2/img/overview.png)
+
+**Advisors and Collaboration**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated data mining**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**,
 and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
 I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/) and [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/).
-Externally, I collaborate with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+In addition, I have collaborated with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC on various projects.
+
 
 See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/), [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf), [research statement](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_RS.pdf), and [teaching statement](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_TS.pdf) for more information.
 
 
-
-
-🔭 **Research outcomes** (related to outlier detection if not specified):
+🔭 **Research outcomes**. I have published more than 30 papers in leading journals such as JMLR, NeurIPS, VLDB, and MLsys
+(primarily for unsupervised ML if not specified):
 
 | **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	    |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
@@ -30,7 +28,7 @@ See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/), [CV](https://www.a
 | **automated machine learning** 	| **outlier model selection**   | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
 | **automated machine learning** 	| **outlier model selection**   | ELECT         	| 2022     	| ICDM      	| Y                  	|
 | **automated machine learning** 	| **outlier HP optimization**   | HPOD          	| 2022     	| Preprint      | Y                  	|
-| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2021     	| Preprint    	| Y                  	|
+| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2023     	| KDD Explor.   | Y                  	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
@@ -49,8 +47,6 @@ See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/), [CV](https://www.a
 | **AI x Science**               	| **healthcare AI**             | PyHealth      	| 2020     	| Preprint   	| Y                  	|
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC           	| 2021     	| NeurIPS    	|                    	|
 | **AI x Science**               	| **Datasets & Benchmark**      | TDC V2           	| 2022     	| NCHEMB    	|                    	|
-
-
 
 ----
 
