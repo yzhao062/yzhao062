@@ -1,20 +1,20 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
 
-😄 I am on the market with expected graduation in Spring 2023. I am broadly interested in *machine learning (ML)*, *data mining/science*, and *information systems* positions. I am a permanent resident of the U.S., Canada, and China.
+😄 I will be an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/) in August 2023. Hats off to my mentors. More details on intern/visitor, graduate student, and postdoc recruitment to follow.
 
-🌱 **Short Bio**: In June 2022, I will finish my Ph.D. in four years at [Carnegie Mellon University (CMU)](https://www.cmu.edu/), with the support from the CMU [Presidential Fellowship](https://www.cmu.edu/sfs/financial-aid/types/scholarships-and-grants/university.html) and [Norton Graduate Fellowship](https://www.nortonlifelock.com/us/en/research-labs/news/2022-fellowship-winners/).
-**My research automates and accelerates unsupervised ML**: (1) how to automate unsupervised ML model selection and (2) how to support large-scale learning tasks,
-See the overview below.
+🌱 **Short Bio**: In May 2023, I will finish my Ph.D. in 4 years at [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
+**My research accelerates and automates unsupervised ML**: (1) how to support large-scale learning tasks with **ML systems** and (2) how to **automate** unsupervised ML model selection and hyperparameter optimization.
+I build AI/ML applications in **finance**, **healthcare**, and **security**.
+I was a senior consultant/associate at PwC Canada from 2017-2019.
 
 ![Research Overview](https://www.andrew.cmu.edu/user/yuezhao2/img/overview.png)
 
-**Advisors and Collaboration**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated data mining**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**,
-and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
+**Mentors**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated ML**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**, and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
 I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/) and [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/).
-In addition, I have collaborated with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC on various projects.
+I have collaborated with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
 
 
-See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/), [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf), [research statement](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_RS.pdf), and [teaching statement](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_TS.pdf) for more information.
+See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
 
 
 🔭 **Research outcomes**. I have published more than 30 papers in leading journals such as JMLR, NeurIPS, VLDB, and MLsys
@@ -22,13 +22,14 @@ See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/), [CV](https://www.a
 
 | **Primary field**                 | **Secondary**                	| **Method**    	| **Year** 	| **Venue**  	| **Lead author** 	    |
 |--------------------------------	|------------------------------	|---------------	|----------	|------------	|--------------------	|
-| **large-scale Benchmark**      	| **tabular anomaly detection** | ADBench          	| 2022     	| NeurIPS       | Y                  	|
-| **large-scale Benchmark**      	| **graph anomaly detection**   | BOND          	| 2022     	| NeurIPS       | Y                  	|
-| **large-scale Benchmark**       	| **sequence anomaly detection**| TODS          	| 2021     	| NeurIPS       |                    	|
-| **automated machine learning** 	| **outlier model selection**   | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
-| **automated machine learning** 	| **outlier model selection**   | ELECT         	| 2022     	| ICDM      	| Y                  	|
-| **automated machine learning** 	| **outlier HP optimization**   | HPOD          	| 2022     	| Preprint      | Y                  	|
-| **automated machine learning** 	| **outlier evaluation**        | IPM           	| 2023     	| KDD Explor.   | Y                  	|
+| **large-scale Benchmark**      	| **tabular data**              | ADBench          	| 2022     	| NeurIPS       | Y                  	|
+| **large-scale Benchmark**      	| **graph learning**            | BOND          	| 2022     	| NeurIPS       | Y                  	|
+| **large-scale Benchmark**       	| **sequence data**             | TODS          	| 2021     	| NeurIPS       |                    	|
+| **automated machine learning** 	| **model selection**           | MetaOD        	| 2021     	| NeurIPS    	| Y                  	|
+| **automated machine learning** 	| **model selection**           | ELECT         	| 2022     	| ICDM      	| Y                  	|
+| **automated machine learning** 	| **HP optimization**           | HPOD          	| 2022     	| Preprint      | Y                  	|
+| **automated machine learning** 	| **evaluation metrics**        | IPM           	| 2023     	| KDD Explor.   | Y                  	|
+| **automated machine learning** 	| **neural arch. search (NAS)** | NAC             	| 2023     	| ICML          |                   	|
 | **machine learning systems**   	|                              	| PyOD          	| 2019     	| JMLR       	| Y                  	|
 | **machine learning systems**   	| **time series**              	| TODS          	| 2020     	| AAAI          |                    	|
 | **machine learning systems**   	|                              	| SUOD          	| 2021     	| MLSys      	| Y                  	|
@@ -78,22 +79,9 @@ Popular ones:
 
 💬 **News & Travel**:
 
-- **Nov 2022**: Happy to serve as the workflow co-chair for [KDD 2023](https://www.kdd.org/kdd2023/)!
+- **Apr 2023**: [Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks](https://openreview.net/forum?id=rNLHeKckZc) will appear in ICML 2023. Congrats to Peng Xu and Lin Zhang!
 
-- **Nov 2022**: [ADMoE: Anomaly Detection with Mixture-of-Experts from Noisy Labels](https://arxiv.org/abs/2208.11290)
-will appear in [AAAI 2023](https://aaai.org/Conferences/AAAI-23/)--the first framework of using multiple sets of noisy labels for anomaly detection.
-
-- **Oct 2022**: Have a new system paper out **TOD: GPU-accelerated Outlier Detection via Tensor Operations**. with George H. Chen and Zhihao Jia.
-[VLDB paper](https://arxiv.org/abs/2110.14007), [Code](https://github.com/yzhao062/pytod).
-
-- **Oct 2022**: Great news! [Our proposal](https://research.facebook.com/blog/2022/10/announcing-the-winners-of-the-2022-ai4ai-research-request-for-proposals/) (led by Prof. Zhihao Jia) for AI-assisted systems has been funded via Meta 2022 AI4AI Research! 
-
-- **Sep 2022**: [Artificial Intelligence Foundation for Therapeutic Science](https://www.nature.com/articles/s41589-022-01131-2) published in ***Nature Chemical Biology***. 
-The paper describes [Therapeutics Data Commons (TDC)](https://tdcommons.ai/) and its various use cases, laying the foundation of therapeutic science.
-
-- **Sep 2022**: Two *large-scale anomaly detection benchmarks* for tabular data ([ADBench](https://openreview.net/forum?id=foA_SFQ9zo0)) and graph data ([BOND](https://openreview.net/forum?id=YXvGXEmtZ5N)) accepted at NeurIPS 2022. 
-
-
+- **Feb 2023**: [Weakly Supervised Anomaly Detection: A Survey](https://arxiv.org/abs/2302.04549) is out! [[code](https://github.com/yzhao062/WSAD)]
 
 
 
