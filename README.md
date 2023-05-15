@@ -7,7 +7,6 @@
 I build AI/ML applications in **finance**, **healthcare**, and **security**.
 I was a senior consultant/associate at PwC Canada from 2017-2019.
 
-![Research Overview](https://www.andrew.cmu.edu/user/yuezhao2/img/overview.png)
 
 **Ph.D. time**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated ML**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**, and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
 I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/) and [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/).
@@ -39,11 +38,6 @@ receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](
 - **Feb 2023**: [Weakly Supervised Anomaly Detection: A Survey](https://arxiv.org/abs/2302.04549) is out! [[code](https://github.com/yzhao062/WSAD)]
 
 
-
-----
-
-[![Yue's github stats](https://github-readme-stats.vercel.app/api?username=yzhao062&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yzhao062&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yzhao062/yzhao062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
