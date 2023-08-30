@@ -1,41 +1,31 @@
-### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://www.andrew.cmu.edu/user/yuezhao2/) 👋
+### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://viterbi-web.usc.edu/~yzhao010/) 👋
 
-😄 I will join [USC Computer Science](https://www.cs.usc.edu/) as an Assistant Professor at in August 2023 (more details on intern/visitor, graduate student, and postdoc recruitment to follow.)
+😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see more information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-🌱 **Short Bio**: I got my Ph.D. in 4 years at [Carnegie Mellon University (CMU)](https://www.cmu.edu/).
-**My research accelerates and automates unsupervised ML**: (1) how to support large-scale learning tasks with **ML systems** and (2) how to **automate** unsupervised ML model selection and hyperparameter optimization.
-I build AI/ML applications in **finance**, **healthcare**, and **security**.
-I was a senior consultant/associate at PwC Canada from 2017-2019.
+🌱 **My research**: I build **fast** and **automated** machine learning (ML) and data mining (DM) **systems**, with a focus on but not limited to graph neural networks and anomaly detection.
+
+1. Accelerate large-scale learning tasks by leveraging ML systems techniques.
+2. Automate unsupervised ML by model selection and hyperparameter optimization.
+3. Develop open-source ML tools to support applications in healthcare, finance, and security.
 
 
 **Ph.D. time**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated ML**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**, and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
 I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/) and [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/).
 I have collaborated with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
 
-See my [homepage](https://www.andrew.cmu.edu/user/yuezhao2/) and [CV](https://www.andrew.cmu.edu/user/yuezhao2/files/ZHAO_YUE_CV.pdf) for more information.
-
 
 ⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
-receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >10,000,000 total downloads.
+receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >20,000,000 total downloads.
 
 
 📫 **Contact me by**:
-- Email (zhaoy [AT] cmu.edu)
+- Email (yzhao010 [AT] usc.edu)
 - [Twitter](https://twitter.com/yzhao062)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
-- [微信 @ 阿调](https://www.andrew.cmu.edu/user/yuezhao2/files/ID_breaknever.jpg)
-- [Homepage](https://www.andrew.cmu.edu/user/yuezhao2/)
+- [Homepage](https://viterbi-web.usc.edu/~yzhao010/)
 
 
 ----
-
-💬 **News & Travel**:
-
-- **May 2023**: I defended my thesis!!! See the [photo](https://pbs.twimg.com/media/Fv8GgwfXgAA-y6N?format=jpg&name=4096x4096) :)
-
-- **Apr 2023**: [Do Not Train It: A Linear Neural Architecture Search of Graph Neural Networks](https://openreview.net/forum?id=rNLHeKckZc) will appear in ICML 2023. Congrats to Peng Xu and Lin Zhang!
-
-- **Feb 2023**: [Weakly Supervised Anomaly Detection: A Survey](https://arxiv.org/abs/2302.04549) is out! [[code](https://github.com/yzhao062/WSAD)]
 
 
 
