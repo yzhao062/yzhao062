@@ -2,7 +2,9 @@
 
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see more information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-🌱 **My research**: I build **fast** and **automated** machine learning (ML) and data mining (DM) **systems**, with a focus on but not limited to graph neural networks and anomaly detection.
+**Prospective Students**. I am peacefully welcoming prospective Ph.D. students (apply by Dec 15th for Fall 24 admission; full financial support) and research interns. You are expected to have one published top paper on my research topics (current focus includes anomaly/outlier/OOD detection, Auto ML, and Multimodal Learning) and strong programming skills (such as (ML) System papers and/or open-source experience) for open-source ML and/or systems. See more at [my homepage](https://viterbi-web.usc.edu/~yzhao010/)
+
+🌱 **My research**: I build **fast**, **automated**, and **open** machine learning (ML) and data mining (DM) **systems**, with a focus on but not limited to **anomaly detection**, **graph neural networks**, and **healthcare for AI**.
 
 1. Accelerate large-scale learning tasks by leveraging ML systems techniques.
 2. Automate unsupervised ML by model selection and hyperparameter optimization.
