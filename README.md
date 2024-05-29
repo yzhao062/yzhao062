@@ -2,27 +2,23 @@
 
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see more information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-**Prospective Students**. I am peacefully welcoming prospective Ph.D. students (apply by Dec 15th for Fall 24 admission; full financial support) and research interns. You are expected to have one published top paper on my research topics (current focus includes anomaly/outlier/OOD detection, Auto ML, and Multimodal Learning) and strong programming skills (such as (ML) System papers and/or open-source experience) for open-source ML and/or systems. See more at [my homepage](https://viterbi-web.usc.edu/~yzhao010/)
+**Prospective Students**. Openings and Timeline for PhD Offer. I am peacefully looking for Ph.D. students (from Fall 25) and interns (no earlier than Fall 2024). I prepared a procedure for the USC CS Ph.D. offer process and funding. See more at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
 
-🌱 **My research**: I build **fast**, **automated**, and **open** machine learning (ML) and data mining (DM) **systems**, with a focus on but not limited to **anomaly detection**, **graph neural networks**, and **healthcare for AI**.
+🌱 **Research Interests**. I build reproducible, automated, and scalable **machine learning (ML)** and **data mining (DM)** benchmarks, algorithms, and systems, with a focus on but not limited to anomaly detection, graph neural networks, ML systems, and AI for healthcare, security, and finance.
 
-1. Accelerate large-scale learning tasks by leveraging ML systems techniques.
-2. Automate unsupervised ML by model selection and hyperparameter optimization.
-3. Develop open-source ML tools to support applications in healthcare, finance, and security.
-
-
-**Ph.D. time**. At CMU, I work with [Prof. Leman Akoglu](http://www.cs.cmu.edu/~lakoglu/) for **automated ML**, [Prof. Zhihao Jia](https://cs.cmu.edu/~zhihaoj2) for **machine learning systems**, and [Prof. George H. Chen](http://www.andrew.cmu.edu/user/georgech/) for general ML.
-I am a member of  [CMU automated learning systems group (Catalyst)](https://catalyst.cs.cmu.edu/) and [Data Analytics Techniques Algorithms (DATA) Lab](https://datalab.heinz.cmu.edu/).
-I have collaborated with [Prof. Jure Leskovec](https://cs.stanford.edu/~jure/) at Stanford and [Prof. Philip S. Yu](https://cs.uic.edu/profiles/philip-yu/) at UIC.
+1. **Benchmark** various learning algorithms for fair evaluation and new insights.
+2. **Automate** ML by model selection and hyperparameter optimization.
+3. **Design** large-scale ML systems for real-world applications.
+4. **Develop** open-source ML tools to support applications in healthcare, finance, security, and more.
 
 
-⚡  **Open-source Contribution**: I have **led** or **contributed as a core member** to [more than 10 ML open-source initiatives](https://github.com/yzhao062), 
-receiving 15,000 GitHub stars (top 0.002%: [ranked 800 out of 40M GitHub users](https://gitstar-ranking.com/yzhao062)) and >20,000,000 total downloads.
+⚡  **Open-source Contribution**: I created PyOD (used by NASA, Tesla, Morgan Stanley, and more) - the most popular library for anomaly detection in 2017. Also, I have led more than 10 ML open-source initiatives, receiving 20,000 GitHub stars (top 0.002%) and >20M downloads. **Popular ones**: PyOD, PyGOD, TDC, ADBench
 
 
 📫 **Contact me by**:
 - Email (yzhao010 [AT] usc.edu)
 - [Twitter](https://twitter.com/yzhao062)
+- [小红书:「微调」](https://www.xiaohongshu.com/user/profile/61716aad000000000201caae?xhsshare=CopyLink&appuid=61716aad000000000201caae&apptime=1693197943)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
 - [Homepage](https://viterbi-web.usc.edu/~yzhao010/)
 
