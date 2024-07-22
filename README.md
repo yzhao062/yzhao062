@@ -1,18 +1,17 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://viterbi-web.usc.edu/~yzhao010/) 👋
 
-😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see more information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
+😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-**Prospective Students**. Openings and Timeline for PhD Offer. I am peacefully looking for Ph.D. students (from Fall 25) and interns (no earlier than Fall 2024). I prepared a procedure for the USC CS Ph.D. offer process and funding. See more at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
+**Prospective Students**.We plan to recruit 1-2 Ph.D. students for Fall 2025. For undergraduate/graduate interns, it will be considered on a case basis. I personally do not want to have a large group of "interns" without enough support. See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
 
-🌱 **Research Interests**. I build reproducible, automated, and scalable **machine learning (ML)** and **data mining (DM)** benchmarks, algorithms, and systems, with a focus on but not limited to anomaly detection, graph neural networks, ML systems, and AI for healthcare, security, and finance.
+🌱 **Research Interests**. My work focuses on creating _robust_, _efficient_, and _automated_ **machine learning (ML)** and **data mining (DM)** algorithms, systems, and applications. My primary areas of interest are:
 
-1. **Benchmark** various learning algorithms for fair evaluation and new insights.
-2. **Automate** ML by model selection and hyperparameter optimization.
-3. **Design** large-scale ML systems for real-world applications.
-4. **Develop** open-source ML tools to support applications in healthcare, finance, security, and more.
+1. **Robustness and Security of AI**: Enhancing the robustness and security of AI systems through out-of-distribution (OOD) detection, outlier detection, and anomaly detection.
+2. **Efficient and Scalable AI**: Developing efficient and scalable ML systems and automation techniques.
+3. **Applications in Security, Finance, and Healthcare**: Applying AI technologies to address complex problems in security, finance, and healthcare sectors.
 
 
-⚡  **Open-source Contribution**: I created PyOD (used by NASA, Tesla, Morgan Stanley, and more) - the most popular library for anomaly detection in 2017. Also, I have led more than 10 ML open-source initiatives, receiving 20,000 GitHub stars (top 0.002%) and >20M downloads. **Popular ones**: PyOD, PyGOD, TDC, ADBench
+⚡  **Open-source Contribution**: I created PyOD (used by NASA, Tesla, Morgan Stanley, and more) - the most popular library for anomaly detection in 2017. Also, I have led more than 10 ML open-source initiatives, receiving 20,000 GitHub stars (top 0.002%) and >22M downloads. **Popular ones**: PyOD, PyGOD, TDC, ADBench
 
 
 📫 **Contact me by**:
