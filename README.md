@@ -2,13 +2,17 @@
 
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-**Prospective Students**.We plan to recruit 1-2 Ph.D. students for Fall 2025. For undergraduate/graduate interns, it will be considered on a case basis. I personally do not want to have a large group of "interns" without enough support. See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
+**Prospective Students**. We are seeking to recruit **2 Ph.D. students** for Fall 2025. Applicants are required to have at least one paper published in a top ML, System, or LLM conference.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
 
-🌱 **Research Interests**. My work focuses on creating _robust_, _efficient_, and _automated_ **machine learning (ML)** and **data mining (DM)** algorithms, systems, and applications. My primary areas of interest are:
+🌱 **Research Interests**. My research is centered on the development of *robust*, *efficient*, and *automated* **machine learning (ML)** algorithms, systems, and applications. My key areas of focus include:
 
-1. **Robustness and Security of AI**: Enhancing the robustness and security of AI systems through out-of-distribution (OOD) detection, outlier detection, and anomaly detection.
-2. **Efficient and Scalable AI**: Developing efficient and scalable ML systems and automation techniques.
-3. **Applications in Security, Finance, and Healthcare**: Applying AI technologies to address complex problems in security, finance, and healthcare sectors.
+1. **Robust and Trustworthy AI:**  Enhancing AI systems with capabilities in out-of-distribution (OOD) detection, outlier detection (OD), and anomaly detection to improve reliability and trust.
+
+2. **Efficient and Automated AI:**  Developing ML systems that operate with minimal human supervision, optimizing for performance and automation.
+
+3. **AI for Applications and Science:**  Applying AI technologies to solve complex problems in fields such as drug discovery, security, finance, healthcare, and political science.
+
+4. **Foundation Models and Generative AI for OD/OOD:**  Investigating the interplay between OD/OOD and advanced models like large language models (LLMs), enhancing both fields.
 
 
 ⚡  **Open-source Contribution**: I created PyOD (used by NASA, Tesla, Morgan Stanley, and more) - the most popular library for anomaly detection in 2017. Also, I have led more than 10 ML open-source initiatives, receiving 20,000 GitHub stars (top 0.002%) and >22M downloads. **Popular ones**: PyOD, PyGOD, TDC, ADBench
