@@ -2,7 +2,7 @@
 
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-**Prospective Students**. We are seeking to recruit **2 Ph.D. students** for Fall 2025. Applicants are required to have at least one paper published in a top ML, System, or LLM conference.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
+**Prospective Students**. We are seeking to recruit **2 Ph.D. students** for Fall 2026. Applicants are required to have at least one paper published in a top ML, System, or LLM conference.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
 
 🌱 **Research Interests**. My research is centered on the development of *robust*, *efficient*, and *automated* **machine learning (ML)** algorithms, systems, and applications. My key areas of focus include:
 
