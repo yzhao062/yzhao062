@@ -2,17 +2,19 @@
 
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
-**Prospective Students**. We are seeking to recruit **2 Ph.D. students** for Fall 2026. Applicants are required to have at least one paper published in a top ML, System, or LLM conference.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
+**Prospective Students**. We are seeking to recruit **2 Ph.D. students** for Fall 2026. Applicants are required to have a few published papers in top ML, System, or NLP conferences.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
 
-🌱 **Research Interests**. My research is centered on the development of *robust*, *efficient*, and *automated* **machine learning (ML)** algorithms, systems, and applications. My key areas of focus include:
+🌱 **Research Interests**. My research focuses on building *Robust, Trustworthy, and Scalable AI systems* by addressing challenges at three distinct but connected levels: the *Principle Level*, the *Knowledge & Generation Level*, and the *System Level*. Through these levels, I integrate reliable detection methods, graph-based structured knowledge, generative modeling, and open-source tools to advance AI4Science, healthcare, finance, and political science.
 
-1. **Robust and Trustworthy AI:**  Enhancing AI systems with capabilities in out-of-distribution (OOD) detection, outlier detection (OD), and anomaly detection to improve reliability and trust.
+1. **Robust and Trustworthy AI (Principle):** Ensuring AI systems can detect outliers, anomalies, and out-of-distribution data to provide trust, fairness, and transparency across different domains.  
+   **Keywords:** OOD Detection, Outlier Detection, Anomaly Detection, Trustworthiness.
 
-2. **Efficient and Automated AI:**  Developing ML systems that operate with minimal human supervision, optimizing for performance and automation.
+2. **Structured and Generative AI for Science and Applications (Knowledge):** Leveraging graph-based learning to understand interconnected data and applying generative AI methods, large language models, and foundation models to address scientific challenges in drug discovery, synthetic clinical trials, and political forecasting.  
+   **Keywords:** Graph Learning, Graph Anomaly Detection, LLMs, Foundation Models, AI4Science, Drug Discovery.
 
-3. **AI for Applications and Science:**  Applying AI technologies to solve complex problems in fields such as drug discovery, security, finance, healthcare, and political science.
+3. **Scalable and Open-Source AI (System):** Developing efficient tools and frameworks for automated model selection, hyperparameter optimization, and large-scale anomaly detection. As the creator of [PyOD](https://github.com/yzhao062/pyod) (25M+ downloads, used by NASA, Tesla, etc.), I lead [10+ open-source projects](https://github.com/yzhao062), including [PyGOD](https://github.com/pygod-team/pygod), [TDC](https://tdcommons.ai/), and [ADBench](https://github.com/Minqi824/ADBench), which collectively have earned more than 20,000 GitHub stars, accelerating AI adoption and impact.  
+   **Keywords:** Automated ML, Distributed Systems, Open-source AI, Scalability.
 
-4. **Foundation Models and Generative AI for OD/OOD:**  Investigating the interplay between OD/OOD and advanced models like large language models (LLMs), enhancing both fields.
 
 
 ⚡  **Open-source Contribution**: I created PyOD (used by NASA, Tesla, Morgan Stanley, and more) - the most popular library for anomaly detection in 2017. Also, I have led more than 10 ML open-source initiatives, receiving 20,000 GitHub stars (top 0.002%) and >22M downloads. **Popular ones**: PyOD, PyGOD, TDC, ADBench
@@ -20,10 +22,10 @@
 
 📫 **Contact me by**:
 - Email (yzhao010 [AT] usc.edu)
-- [Twitter](https://twitter.com/yzhao062)
+- [Homepage](https://viterbi-web.usc.edu/~yzhao010/)
 - [小红书:「微调」](https://www.xiaohongshu.com/user/profile/61716aad000000000201caae?xhsshare=CopyLink&appuid=61716aad000000000201caae&apptime=1693197943)
 - [知乎:「微调」](https://www.zhihu.com/people/breaknever)
-- [Homepage](https://viterbi-web.usc.edu/~yzhao010/)
+
 
 
 ----
