@@ -1,9 +1,5 @@
 ### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://viterbi-web.usc.edu/~yzhao010/) 👋
 
-⚠️ **Impersonation Warning**: I do **not** have any account on Twitter/X.  
-Any account using my name or affiliation on that platform (e.g., `@yzhao062`) is impersonating me.  
-Please refer only to my [homepage](https://viterbi-web.usc.edu/~yzhao010/) or official links below for accurate information.
-
 😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
 **Prospective Students**. We are seeking to recruit **no more than 1 Ph.D. students** for Fall 2026. Applicants are required to have a few published papers in top ML, System, or NLP conferences.  We also have openings for **undergraduate and graduate interns**, both from USC and other institutions. For all positions, please complete this Google Form: [Application Form](https://forms.gle/F2ZXqFWh9wgmUcHDA). Additionally, Ph.D. candidates are required to email me directly after submitting the form.  See details at [my homepage](https://viterbi-web.usc.edu/~yzhao010/lab.html).
