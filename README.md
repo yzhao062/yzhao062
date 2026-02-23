@@ -2,8 +2,8 @@
 
 ---
 
-**Note on External Advisory/Consultancy:**  
-Dr. Zhao provides technical consultancy to selected projects on topics such as privacy-preserving AI and secure machine learning systems. These collaborations are strictly technical in nature, with no involvement in financial operations, external fundraising, or investment-related activities.
+**External Affiliation Disclosure:**  
+As of 02/01/2026, Dr. Zhao does not currently hold any industry employment, consulting, or advisory appointments.
 
 ---
 
