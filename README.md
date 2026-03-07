@@ -1,4 +1,6 @@
-### Hi there, I'm [Yue ZHAO (赵越 in Chinese)!](https://viterbi-web.usc.edu/~yzhao010/) 👋
+### Hi there, I'm [Yue Zhao (赵越)](https://viterbi-web.usc.edu/~yzhao010/) 👋
+
+😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/). More information can be found on my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
 
 ---
 
@@ -7,76 +9,68 @@ As of 02/01/2026, Dr. Zhao does not currently hold any industry employment, cons
 
 ---
 
+## 🌱 Research
 
-😄 I am an Assistant Professor at [USC Computer Science](https://www.cs.usc.edu/); see the latest information at my [homepage](https://viterbi-web.usc.edu/~yzhao010/).
+My research focuses on **auditing, securing, and deploying reliable AI systems**, with an emphasis on **foundation models and agentic systems operating in real-world environments**.
 
-## 🌱 Research Interests
-
-My research centers on building **reliable, safe, and scalable AI systems**, with a focus on understanding and mitigating failure modes in modern foundation models and agentic systems.  
-I organize my work into two tightly connected tiers:
-
-- **Tier 1:** advancing the scientific foundations of reliability and safety in modern AI systems  
-- **Tier 2:** translating these foundations into system-level evaluation frameworks and high-impact scientific and societal applications  
+My work centers on three closely connected directions.
 
 ---
 
-### **Tier 1: Foundations of Reliable & Safe AI**
+### 1. AI Auditing & Assurance
 
-I study why and how modern AI systems fail under distribution shift, uncertainty, and strategic pressure, and develop methods to make their behavior more predictable and reliable.  
-This tier comprises two complementary directions:
+I develop methods, benchmarks, and open-source systems to **audit and monitor complex AI systems**, including foundation models and agentic pipelines.
 
-- **LLM & Agent Safety**  
-  Understanding and mitigating failure modes in large language models and agentic systems, including hallucinations, jailbreaks, privacy leakage, model extraction, and multi-agent instability.
+Representative systems include:
 
-- **Robustness & Failure Detection**  
-  Developing algorithms and benchmarks to identify abnormal or unreliable behavior, grounded in robustness, out-of-distribution generalization, and anomaly detection.
+- **TrustLLM** – auditing trustworthiness of large language models  
+- **agent-audit** – security analysis for agentic AI pipelines  
+- **PyOD ecosystem** – scalable anomaly detection tools (35M+ downloads)
 
 **Keywords:**  
-LLM Safety, Robustness, Agents, Hallucination Mitigation, Jailbreak Detection, OOD Generalization, Failure Analysis
+AI Auditing · AI Assurance · Trustworthy AI · Agent Systems · AI Monitoring · Risk Analysis
 
 ---
 
-### **Tier 2: System-Level Evaluation & Scientific/Societal Impact**
+### 2. AI Safety & Reliability
 
-I adopt a system-oriented perspective to evaluate, stress-test, and deploy reliable AI in realistic settings, and apply these methods to domains where failures carry high cost.  
-This tier focuses on two areas that operationalize foundational advances:
+I study **failure modes and security risks in modern AI systems**, particularly LLMs and agents.
 
-- **Evaluation & Benchmarking**  
-  Designing scalable evaluation frameworks, benchmarks, and workflows that probe model and agent behavior under realistic and adversarial conditions.
+Representative topics include:
 
-- **AI for Science & Society**  
-  Applying reliable foundation models to high-impact domains, including climate and weather forecasting, healthcare and biomedicine, and political or social decision-making.
+- hallucination mitigation  
+- jailbreak detection  
+- prompt attacks  
+- privacy leakage  
+- robustness and anomaly detection
 
 **Keywords:**  
-Evaluation, Benchmarking, System-Level Analysis, AI for Science, Scientific Foundation Models, Climate & Weather Modeling, AI for Healthcare
+LLM Safety · AI Safety · Robustness · Anomaly Detection · Failure Analysis
 
 ---
 
-📫 **Contact me by**:
-- Email (yue.z [AT] usc.edu)
-- [Homepage](https://viterbi-web.usc.edu/~yzhao010/)
-- [小红书:「微调」](https://www.xiaohongshu.com/user/profile/61716aad000000000201caae?xhsshare=CopyLink&appuid=61716aad000000000201caae&apptime=1693197943)
-- [知乎:「微调」](https://www.zhihu.com/people/breaknever)
+### 3. AI for Science & Society
 
+I apply reliable and auditable AI systems to **high-impact domains** where failures carry significant consequences.
 
+Example areas include:
 
-----
+- climate and weather forecasting  
+- healthcare and biomedicine  
+- computational social systems
 
+**Keywords:**  
+AI for Science · Climate AI · Healthcare AI · Social Systems
 
+---
 
-<!--
-**yzhao062/yzhao062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contact
 
-Here are some ideas to get you started:
+- Email: yue.z [AT] usc.edu  
+- 🌐 [Homepage](https://viterbi-web.usc.edu/~yzhao010/)  
+- 📚 [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)  
+- 🧠 [GitHub](https://github.com/yzhao062)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-I am the author/core developer of various machine learning tools and systems with more than millions of downloads. 
--->
+💡 I am the creator/core developer of several widely used ML systems including **PyOD**, **PyGOD**, **ADBench**, and **TrustLLM**, which together have **35M+ downloads and 22K+ GitHub stars**.
