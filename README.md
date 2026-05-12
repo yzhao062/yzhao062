@@ -20,7 +20,7 @@
 </div>
 
 > [!IMPORTANT]
-> **[FORTIS Labs](https://fortislabs.ai), a new venture on decision integrity for AI agents.** Drawing on a decade of anomaly-detection research and open-source work. Introductions from investors and design partners welcome via the [contact](#contact) section.
+> **[FORTIS Labs](https://fortislabs.ai), a new venture on decision integrity for AI agents.** Drawing on a decade of anomaly-detection research and open-source work. Introductions from investors and design partners welcome at [hello@fortislabs.ai](mailto:hello@fortislabs.ai).
 
 > [!NOTE]
 > Assistant Professor at USC Computer Science, PI of FORTIS Lab (USC academic group). Research on AI auditing: methods, benchmarks, and open-source tools for inspecting AI systems. Lead developer of PyOD (9.8k★, 42M+ downloads), the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. ~12k Google Scholar citations across all work.
