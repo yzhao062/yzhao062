@@ -4,7 +4,7 @@
 
 # Yue Zhao (赵越)
 
-**USC Assistant Professor building methods, benchmarks, and open-source tools for AI auditing.**
+**USC Assistant Professor building methods, benchmarks, and open-source tools for AI risk audit and control.**
 
 [![Homepage](https://img.shields.io/badge/Homepage-USC-990000)](https://viterbi-web.usc.edu/~yzhao010/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-12k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
@@ -23,13 +23,13 @@
 > **[FORTIS Labs](https://fortislabs.ai), a new venture on decision integrity for AI agents.** Drawing on a decade of anomaly-detection research and open-source work. Introductions from investors and design partners welcome at [hello@fortislabs.ai](mailto:hello@fortislabs.ai).
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science, PI of FORTIS Lab (USC academic group). Research on AI auditing: methods, benchmarks, and open-source tools for inspecting AI systems. Lead developer of PyOD (9.8k★, 42M+ downloads), the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. ~12k Google Scholar citations across all work.
+> Assistant Professor at USC Computer Science, PI of FORTIS Lab (USC academic group). Research on AI risk audit and control: methods, benchmarks, and open-source tools for inspecting and intervening on AI systems. Lead developer of PyOD (9.8k★, 42M+ downloads), the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. ~12k Google Scholar citations across all work.
 
 ---
 
 ## Research
 
-AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source tools for **AI auditing**.
+AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source tools for **AI risk audit and control**.
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data-distribution settings to foundation-model behavior and autonomous-agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before deployment.
 
@@ -71,7 +71,7 @@ Featured projects (see the full list on the [homepage](https://viterbi-web.usc.e
 
 ## FORTIS Lab
 
-I lead the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) at USC, working on AI auditing, anomaly detection, and trustworthy AI systems. Current roster: 4 PhD students plus master and undergraduate researchers.
+I lead the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) at USC, working on AI risk audit and control, anomaly detection, and trustworthy AI systems. Current roster: 4 PhD students plus master and undergraduate researchers.
 
 ---
 
