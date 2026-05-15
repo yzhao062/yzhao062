@@ -33,11 +33,11 @@ AI systems are deployed faster than they can be verified. Foundation models and 
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data-distribution settings to foundation-model behavior and autonomous-agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before deployment.
 
-Three connected directions:
+Three layers of the deployment stack:
 
-- 🔍 **Auditing and Assurance:** methods, benchmarks, and tools to inspect and evaluate AI systems.
-- 🛡️ **Safety and Security:** failure modes, attack surfaces, runtime guardrails.
-- 🌐 **Science and Society:** AI for climate, healthcare, and computational social systems where accountability is not optional.
+- 🤖 **Agent Layer: Risk Audit and Runtime Control.** Auditability frameworks, runtime control surfaces that intercept tool calls before they fire, agent-specific failure modes (over-privilege, cross-user contamination, autonomy tax of defense training), and category-adaptive training-time defenses.
+- 🧠 **Foundation-Model Layer: Trust and Robustness.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
+- 📊 **Data Layer: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
 
 ---
 
