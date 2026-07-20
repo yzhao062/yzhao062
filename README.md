@@ -4,7 +4,7 @@
 
 # Yue Zhao (赵越)
 
-**AI Risk Audit and Control across Agents, Foundation Models, and Data**
+**Building auditable AI systems: risk detection, attribution, and control**
 
 USC Professor · Founder of FORTIS Labs · Open-source author
 
@@ -23,7 +23,7 @@ USC Professor · Founder of FORTIS Labs · Open-source author
 </div>
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science and PI of the **FORTIS Lab**. I research, build, and open-source **AI risk audit and control**: methods, benchmarks, and tools for inspecting and intervening on AI systems across the deployment stack. Creator of **PyOD**, the canonical Python anomaly-detection library (9.8k&#9733;; named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech). Across my open source: **~24k GitHub stars and 42M+ downloads**. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. ~12k Google Scholar citations.
+> Assistant Professor at USC Computer Science and PI of the **FORTIS Lab**. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable** across the deployment stack. Creator of **PyOD**, the canonical Python anomaly-detection library (9.8k&#9733;; named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech). Across my open source: **~24k GitHub stars and 50M+ downloads**. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. ~12k Google Scholar citations.
 
 > [!IMPORTANT]
 > **Founder of [FORTIS Labs](https://fortislabs.ai): a venture building auditable AI agents.** Open-source infrastructure to capture, verify, and roll back agent decisions, anchored by [`auditable`](https://github.com/yzhao062/auditable) and drawing on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@fortislabs.ai](mailto:hello@fortislabs.ai).
@@ -32,13 +32,13 @@ USC Professor · Founder of FORTIS Labs · Open-source author
 
 ## Research
 
-AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source tools for **AI risk audit and control**.
+AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source infrastructure that **make AI systems auditable**: detecting, diagnosing, and controlling departures from expected behavior, from anomalous data and foundation-model failures to consequential agent actions.
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data distributions to foundation-model behavior and agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before and after deployment.
 
 Three layers of the deployment stack:
 
-- 🤖 **Agent Layer: Risk Audit and Runtime Control.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)), post-run failure localization in multi-agent systems ([GRADE](https://github.com/yzhao062/grade)), and agent-specific failure modes (over-privilege, cross-user contamination, the autonomy tax of defense training).
+- 🤖 **Agent Layer: Auditability and Runtime Control.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)), post-run failure localization in multi-agent systems ([GRADE](https://github.com/yzhao062/grade)), and agent-specific failure modes (over-privilege, cross-user contamination, the autonomy tax of defense training).
 - 🧠 **Foundation-Model Layer: Trust and Robustness.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
 - 📊 **Data Layer: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
 
@@ -46,7 +46,7 @@ Three layers of the deployment stack:
 
 ## Open Source
 
-**~24k GitHub stars and 42M+ downloads across projects.** Featured below (full list on the [homepage](https://viterbi-web.usc.edu/~yzhao010/opensource.html)):
+**~24k GitHub stars and 50M+ downloads across projects.** Featured below (full list on the [homepage](https://viterbi-web.usc.edu/~yzhao010/opensource.html)):
 
 | Project | Layer | What It Does |
 |---|---|---|
@@ -78,7 +78,7 @@ Three layers of the deployment stack:
 
 ## FORTIS Lab
 
-I lead the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) at USC, working on AI risk audit and control, anomaly detection, and trustworthy AI systems, with a team of PhD, master's, and undergraduate researchers.
+I lead the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) at USC, working on auditable AI systems, anomaly detection, and foundation-model trust, with a team of PhD, master's, and undergraduate researchers.
 
 ---
 
