@@ -6,7 +6,7 @@
 
 **Building auditable AI systems: risk detection, attribution, and control**
 
-USC Professor · Founder of FORTIS Labs · Open-source author
+USC Professor · Founder of Auditable AI · Open-source author
 
 [![Homepage](https://img.shields.io/badge/Homepage-USC-990000)](https://viterbi-web.usc.edu/~yzhao010/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-12k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
@@ -26,7 +26,7 @@ USC Professor · Founder of FORTIS Labs · Open-source author
 > Assistant Professor at USC Computer Science and PI of the **FORTIS Lab**. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable** across the deployment stack. Creator of **PyOD**, the canonical Python anomaly-detection library (9.8k&#9733;; named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech). Across my open source: **~24k GitHub stars and 50M+ downloads**. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. ~12k Google Scholar citations.
 
 > [!IMPORTANT]
-> **Founder of [FORTIS Labs](https://fortislabs.ai): a venture building auditable AI agents.** Open-source infrastructure to capture, verify, and roll back agent decisions, anchored by [`auditable`](https://github.com/yzhao062/auditable) and drawing on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@fortislabs.ai](mailto:hello@fortislabs.ai).
+> **Founder of [Auditable AI](https://auditable.run): a venture building auditable AI agents.** Open-source infrastructure to capture, verify, and roll back agent decisions, anchored by [`auditable`](https://github.com/yzhao062/auditable) and drawing on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@auditable.run](mailto:hello@auditable.run).
 
 ---
 
