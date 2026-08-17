@@ -6,7 +6,7 @@
 
 **Building auditable AI systems: risk detection, attribution, and control**
 
-USC Professor · Founder of Auditable AI · Open-source author
+USC Assistant Professor · Founder of Auditable AI · Open-source author
 
 [![Homepage](https://img.shields.io/badge/Homepage-USC-990000)](https://viterbi-web.usc.edu/~yzhao010/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-12k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
@@ -23,10 +23,12 @@ USC Professor · Founder of Auditable AI · Open-source author
 </div>
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science and PI of the **FORTIS Lab**. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable** across the deployment stack. Creator of **PyOD**, the canonical Python anomaly-detection library (9.8k&#9733;; named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech). Across my open source: **~24k GitHub stars and 50M+ downloads**. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. ~12k Google Scholar citations.
+> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable** across agent action, model behavior, and input distribution. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. Across the projects I lead or co-author: **29k+ GitHub stars and 60M+ downloads** (August 2026), including PyOD, PyGOD, ADBench, TrustLLM, and Therapeutics Data Commons. Author of over 80 peer-reviewed papers with ~12k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**.
 
 > [!IMPORTANT]
 > **Founder of [Auditable AI](https://auditable.run): a venture building auditable AI agents.** Open-source infrastructure to capture, verify, and roll back agent decisions, anchored by [`auditable`](https://github.com/yzhao062/auditable) and drawing on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@auditable.run](mailto:hello@auditable.run).
+>
+> Also serving as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
 
 ---
 
@@ -36,40 +38,44 @@ AI systems are deployed faster than they can be verified. Foundation models and 
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data distributions to foundation-model behavior and agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before and after deployment.
 
-Three layers of the deployment stack:
+Three levels in the lab taxonomy:
 
-- 🤖 **Agent Layer: Auditability and Runtime Control.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)), post-run failure localization in multi-agent systems ([GRADE](https://github.com/yzhao062/grade)), and agent-specific failure modes (over-privilege, cross-user contamination, the autonomy tax of defense training).
-- 🧠 **Foundation-Model Layer: Trust and Robustness.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
-- 📊 **Data Layer: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
+- 🤖 **Agent Action: Auditability and Control of Agent Systems.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), and static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)) with its benchmark ([FORTIS](https://arxiv.org/abs/2605.09163)). Also post-run failure localization in multi-agent systems ([GRADE](https://arxiv.org/abs/2606.22741)) and agent-specific failure modes: over-privilege, cross-user contamination, and the autonomy tax of defense training.
+- 🧠 **Model Behavior: Trust and Robustness of Foundation Models.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
+- 📊 **Input Distribution: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
+
+Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organizes this into five dimensions of auditability and three mechanism classes (detect, enforce, recover). It appears at the inaugural ACM AI Leadership Summit and at the ACL 2026 KnowFM workshop.
 
 ---
 
 ## Open Source
 
-**~24k GitHub stars and 50M+ downloads across projects.** Featured below (full list on the [homepage](https://viterbi-web.usc.edu/~yzhao010/opensource.html)):
+**29k+ GitHub stars and 60M+ downloads across the projects I lead or co-author** (August 2026). Featured below (full list on the [homepage](https://viterbi-web.usc.edu/~yzhao010/opensource.html)):
 
-| Project | Layer | What It Does |
-|---|---|---|
-| [**PyOD**](https://github.com/yzhao062/pyod) | Data | Canonical anomaly detection: 60+ detectors across tabular, time-series, graph, and image data. (9.8k&#9733;) |
-| [**auditable**](https://github.com/yzhao062/auditable) | Agent | System of record for AI-agent decisions: capture, replay against live state, roll back. |
-| [**agent-audit**](https://github.com/HeadyZhang/agent-audit) | Agent | Static security and over-privilege scanner for AI-agent code. |
-| [**anywhere-agents**](https://github.com/yzhao062/anywhere-agents) | Tooling | One config for Claude Code and Codex across every project and session. (171&#9733;) |
-| [**agent-style**](https://github.com/yzhao062/agent-style) | Tooling | 21 writing rules loaded into AI agents at generation time. (432&#9733;) |
+| Project | Research level / role | Stars | What It Does |
+|---|---|---|---|
+| [**PyOD**](https://github.com/yzhao062/pyod) | Input distribution | [![PyOD GitHub stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat&label=%20&color=990000)](https://github.com/yzhao062/pyod) | Canonical anomaly detection, now in its third major release. 60+ detectors across tabular, time series, graph, text, and image data, plus an ADEngine orchestration core and an agentic investigation layer driven in natural language. |
+| [**auditable**](https://github.com/yzhao062/auditable) | Agent action | [![auditable GitHub stars](https://img.shields.io/github/stars/yzhao062/auditable?style=flat&label=%20&color=990000)](https://github.com/yzhao062/auditable) | System of record for AI-agent decisions: capture, replay against live state, roll back. |
+| [**GRADE**](https://github.com/yzhao062/grade) | Agent action | [![GRADE GitHub stars](https://img.shields.io/github/stars/yzhao062/grade?style=flat&label=%20&color=990000)](https://github.com/yzhao062/grade) | The method `auditable` is built on: a typed two-layer graph of agent execution and dependency. [arXiv](https://arxiv.org/abs/2606.22741) |
+| [**agent-audit**](https://github.com/HeadyZhang/agent-audit) | Agent action | [![agent-audit GitHub stars](https://img.shields.io/github/stars/HeadyZhang/agent-audit?style=flat&label=%20&color=990000)](https://github.com/HeadyZhang/agent-audit) | Static security and over-privilege scanner for AI-agent code. |
+| [**awesome-auditable-ai**](https://github.com/yzhao062/awesome-auditable-ai) | Agent action | [![awesome-auditable-ai GitHub stars](https://img.shields.io/github/stars/yzhao062/awesome-auditable-ai?style=flat&label=%20&color=990000)](https://github.com/yzhao062/awesome-auditable-ai) | Curated map of papers, tools, datasets, and standards for reliable, auditable AI agents. |
+| [**anywhere-agents**](https://github.com/yzhao062/anywhere-agents) | Supporting tooling | [![anywhere-agents GitHub stars](https://img.shields.io/github/stars/yzhao062/anywhere-agents?style=flat&label=%20&color=990000)](https://github.com/yzhao062/anywhere-agents) | One config for Claude Code and Codex across every project and session. |
+| [**agent-style**](https://github.com/yzhao062/agent-style) | Supporting tooling | [![agent-style GitHub stars](https://img.shields.io/github/stars/yzhao062/agent-style?style=flat&label=%20&color=990000)](https://github.com/yzhao062/agent-style) | 21 writing rules loaded into AI agents at generation time. |
 
 > [!TIP]
-> **External adoption of PyOD.** Named by [OpenAI](https://openai.com/careers/technical-intelligence-analyst-san-francisco/) as expected operational tooling, shipped as a first-class ModelHandler in [Apache Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/ml/anomaly/detectors/pyod_adapter.py) (Apache Software Foundation), running the live-traffic alerting subsystem in [PostHog](https://github.com/PostHog/posthog/tree/master/posthog/tasks/alerts/detectors/pyod_detectors), the canonical anomaly-detection flavor in [MLflow](https://github.com/mlflow/mlflow/blob/master/docs/docs/classic-ml/community-model-flavors/index.mdx) community-flavor docs, and embedded in [Genentech (Roche)](https://github.com/Genentech/data-detective) drug-discovery validators. 5,493 public repositories and 139 packages depend on PyOD (May 2026 snapshot). The U.S. DoD CDAO lists PyOD; ESA OPS-SAT flies it for spacecraft anomaly detection.
+> **External adoption of PyOD.** Named by [OpenAI](https://openai.com/careers/technical-intelligence-analyst-san-francisco/) as expected operational tooling, shipped as a first-class ModelHandler in [Apache Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/ml/anomaly/detectors/pyod_adapter.py) (Apache Software Foundation), running the live-traffic alerting subsystem in [PostHog](https://github.com/PostHog/posthog/tree/master/posthog/tasks/alerts/detectors/pyod_detectors), the canonical anomaly-detection flavor in [MLflow](https://github.com/mlflow/mlflow/blob/master/docs/docs/classic-ml/community-model-flavors/index.mdx) community-flavor docs, and embedded in [Genentech (Roche)](https://github.com/Genentech/data-detective) drug-discovery validators. It is also used by Amazon, Walmart, and Databricks, runs inside published procurement audits by the Brazilian federal government, and is deployed in a UK Government care service. 5,493 public repositories and 139 packages depend on PyOD (May 2026 snapshot). The U.S. DoD CDAO lists PyOD; ESA OPS-SAT flies it for spacecraft anomaly detection. PyOD is the subject of five published books and is cited in 49 patents.
 
 <details>
 <summary><b>Other Notable Projects</b></summary>
 
-- [**PyGOD**](https://github.com/pygod-team/pygod) (1.5k&#9733;): graph outlier detection, sister project to PyOD.
-- [**GRADE**](https://github.com/yzhao062/grade): typed two-layer graph of agent execution and dependency; localizes the faulting step in multi-agent runs.
-- [**Aegis**](https://github.com/Justin0504/Aegis) (contributor): pre-execution firewall that gates each agent tool call.
-- [**TrustLLM**](https://github.com/HowieHwong/TrustLLM) (625&#9733;, co-author): LLM trustworthiness benchmark cited by NIST AI 100-2e2025, the FLI AI Safety Index, U.S. Senate HSGAC, and DoD CDAO.
-- [**AD-AGENT**](https://github.com/USC-FORTIS/AD-AGENT) (99&#9733;): LLM-driven multi-agent anomaly detection platform.
-- [**ADBench**](https://github.com/Minqi824/ADBench) (1k&#9733;): NeurIPS 2022 official anomaly detection benchmark.
-- [**Anomaly-Detection-Resources**](https://github.com/yzhao062/anomaly-detection-resources) (9.3k&#9733;): curated resource hub for anomaly detection.
-- [**CS-Paper-Checklist**](https://github.com/yzhao062/cs-paper-checklist) (1.6k&#9733;): practical sanity checklist for CS paper writing.
+- [**PyGOD**](https://github.com/pygod-team/pygod) [![PyGOD GitHub stars](https://img.shields.io/github/stars/pygod-team/pygod?style=flat&label=%20&color=990000)](https://github.com/pygod-team/pygod): graph outlier detection, sister project to PyOD.
+- [**Aegis**](https://github.com/Justin0504/Aegis) [![Aegis GitHub stars](https://img.shields.io/github/stars/Justin0504/Aegis?style=flat&label=%20&color=990000)](https://github.com/Justin0504/Aegis) (contributor): pre-execution firewall that gates each agent tool call.
+- [**TrustLLM**](https://github.com/HowieHwong/TrustLLM) [![TrustLLM GitHub stars](https://img.shields.io/github/stars/HowieHwong/TrustLLM?style=flat&label=%20&color=990000)](https://github.com/HowieHwong/TrustLLM) (co-author): LLM trustworthiness benchmark cited by NIST AI 100-2e2025, the FLI AI Safety Index, U.S. Senate HSGAC, and DoD CDAO.
+- [**Therapeutics Data Commons**](https://github.com/mims-harvard/TDC) [![Therapeutics Data Commons GitHub stars](https://img.shields.io/github/stars/mims-harvard/TDC?style=flat&label=%20&color=990000)](https://github.com/mims-harvard/TDC) (co-author): supplied the training data for Google Research's Tx-LLM and the prediction tasks in Google DeepMind's TxGemma.
+- [**AD-AGENT**](https://github.com/USC-FORTIS/AD-AGENT) [![AD-AGENT GitHub stars](https://img.shields.io/github/stars/USC-FORTIS/AD-AGENT?style=flat&label=%20&color=990000)](https://github.com/USC-FORTIS/AD-AGENT): LLM-driven multi-agent anomaly detection platform.
+- [**ADBench**](https://github.com/Minqi824/ADBench) [![ADBench GitHub stars](https://img.shields.io/github/stars/Minqi824/ADBench?style=flat&label=%20&color=990000)](https://github.com/Minqi824/ADBench): NeurIPS 2022 official anomaly detection benchmark.
+- [**Anomaly-Detection-Resources**](https://github.com/yzhao062/anomaly-detection-resources) [![Anomaly-Detection-Resources GitHub stars](https://img.shields.io/github/stars/yzhao062/anomaly-detection-resources?style=flat&label=%20&color=990000)](https://github.com/yzhao062/anomaly-detection-resources): curated resource hub for anomaly detection.
+- [**CS-Paper-Checklist**](https://github.com/yzhao062/cs-paper-checklist) [![CS-Paper-Checklist GitHub stars](https://img.shields.io/github/stars/yzhao062/cs-paper-checklist?style=flat&label=%20&color=990000)](https://github.com/yzhao062/cs-paper-checklist): practical sanity checklist for CS paper writing.
 - [**agent-config**](https://github.com/yzhao062/agent-config): personal working repo and canonical source for `anywhere-agents`.
 
 </details>
@@ -80,11 +86,13 @@ Three layers of the deployment stack:
 
 I lead the [FORTIS Lab](https://viterbi-web.usc.edu/~yzhao010/lab.html) at USC, working on auditable AI systems, anomaly detection, and foundation-model trust, with a team of PhD, master's, and undergraduate researchers.
 
+My awards include the NVIDIA Academic Grant Program Award, multiple Amazon Research Awards, the Capital One Research Award, and the Foresight Institute AI for Safety & Science Nodes Grant. NSF grants and a Meta sponsored research agreement fund the lab alongside them. AAAI selected me for New Faculty Highlights.
+
 ---
 
 ## Community
 
-Founder & Maintainer of **[博士栈 · CSPhD.org](https://csphd.org)**, a non-profit community for CS / AI / EE / Stats PhDs. Since 2022 it has grown to several thousand members and helped many land PhD positions, internships, and full-time roles, with a searchable board of 540+ PhD, RA, and postdoc openings.
+Founder & Maintainer of **[博士栈 · CSPhD.org](https://csphd.org)**, a non-profit community for CS / AI / EE / Stats PhDs. Since 2022 it has grown to several thousand members and helped many land PhD positions, internships, and full-time roles, with a searchable board of 500+ PhD, RA, and postdoc openings.
 
 ---
 
