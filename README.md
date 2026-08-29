@@ -40,9 +40,20 @@ Methodologically, this work extends my prior research on **anomaly and outlier d
 
 Three levels in the lab taxonomy:
 
-- 🤖 **Agent Action: Auditability and Control of Agent Systems.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), and static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)) with its benchmark ([FORTIS](https://arxiv.org/abs/2605.09163)). Also post-run failure localization in multi-agent systems ([GRADE](https://arxiv.org/abs/2606.22741)) and agent-specific failure modes: over-privilege, cross-user contamination, and the autonomy tax of defense training.
+- 🤖 **Agent Action: Auditability and Control of Agent Systems.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), and static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)) with its benchmark ([FORTIS](https://arxiv.org/abs/2605.09163)). Also post-run failure localization in multi-agent systems ([GRADE](https://arxiv.org/abs/2606.22741)) and agent-specific failure modes: over-privilege and cross-user contamination.
 - 🧠 **Model Behavior: Trust and Robustness of Foundation Models.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
 - 📊 **Input Distribution: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
+
+A fourth question cuts across all three levels: **was the work necessary?** Whatever record makes a
+system accountable also shows what its effort bought, and that is the dimension industry
+asks about most. [The Autonomy Tax](https://arxiv.org/abs/2603.19423) measures what
+defense training against prompt injection costs an agent's ability to finish multi-step
+tasks. [Bandit routing](https://arxiv.org/abs/2510.07429) treats model choice as an online
+cost-quality decision, and [DyFlow](https://openreview.net/forum?id=0pbUfmwNTy) constructs
+agent workflows as a run proceeds. The same question runs back through the detection line,
+where [SUOD](https://proceedings.mlsys.org/paper_files/paper/2021/hash/37385144cac01dff38247ab11c119e3c-Abstract.html)
+and the GPU-accelerated [TOD](https://www.vldb.org/pvldb/vol16/p546-zhao.pdf) cut the compute
+cost of running many detectors at scale.
 
 Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organizes this into five dimensions of auditability and three mechanism classes (detect, enforce, recover). It appears at the inaugural ACM AI Leadership Summit and at the ACL 2026 KnowFM workshop.
 
