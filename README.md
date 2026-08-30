@@ -9,7 +9,7 @@
 USC Assistant Professor · Founder of Auditable AI · Open-source author
 
 [![Homepage](https://img.shields.io/badge/Homepage-USC-990000)](https://viterbi-web.usc.edu/~yzhao010/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-12k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-14k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
 [![PyOD stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat&label=PyOD&color=990000)](https://github.com/yzhao062/pyod)
 [![PyOD downloads](https://static.pepy.tech/badge/pyod)](https://pepy.tech/project/pyod)
 
@@ -23,12 +23,7 @@ USC Assistant Professor · Founder of Auditable AI · Open-source author
 </div>
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI and used by Apache Beam, Amazon, Walmart, Databricks, and the European Space Agency. Across the projects I lead or co-author: **29k+ GitHub stars and 60M+ downloads** (August 2026), including PyOD, ADBench, TrustLLM, agent-audit, and Aegis. Author of over 80 peer-reviewed papers with ~12k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**.
-
-> [!IMPORTANT]
-> **Founder of [Auditable AI](https://auditable.run), the auditable layer for AI agents.** Open-source infrastructure to capture each agent decision, replay it against live state, and roll it back when it no longer holds. It is anchored by [`auditable`](https://github.com/yzhao062/auditable) and draws on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@auditable.run](mailto:hello@auditable.run).
->
-> Also serving as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
+> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI and used by Apache Beam, Amazon, Walmart, Databricks, and the European Space Agency. Across the projects I lead or co-author: **29k+ GitHub stars and 60M+ downloads** (August 2026), including PyOD, ADBench, TrustLLM, agent-audit, and Aegis. Author of over 80 peer-reviewed papers with ~14k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. I am founding [Auditable AI](https://auditable.run), the auditable layer for AI agents. I also serve as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
 
 ---
 
@@ -64,7 +59,7 @@ Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organize
 | [**agent-style**](https://github.com/yzhao062/agent-style) | Supporting tooling | [![agent-style GitHub stars](https://img.shields.io/github/stars/yzhao062/agent-style?style=flat&label=%20&color=990000)](https://github.com/yzhao062/agent-style) | 21 writing rules loaded into AI agents at generation time. |
 
 > [!TIP]
-> **External adoption of PyOD.** Named by [OpenAI](https://openai.com/careers/technical-intelligence-analyst-san-francisco/) as expected operational tooling, shipped as a first-class ModelHandler in [Apache Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/ml/anomaly/detectors/pyod_adapter.py) (Apache Software Foundation), running the live-traffic alerting subsystem in [PostHog](https://github.com/PostHog/posthog/tree/master/posthog/tasks/alerts/detectors/pyod_detectors), the canonical anomaly-detection flavor in [MLflow](https://github.com/mlflow/mlflow/blob/master/docs/docs/classic-ml/community-model-flavors/index.mdx) community-flavor docs, and embedded in [Genentech (Roche)](https://github.com/Genentech/data-detective) drug-discovery validators. It is also used by Amazon, Walmart, and Databricks, runs inside published procurement audits by the Brazilian federal government, and is deployed in a UK Government care service. 5,493 public repositories and 139 packages depend on PyOD (May 2026 snapshot). The U.S. DoD CDAO lists PyOD; ESA OPS-SAT flies it for spacecraft anomaly detection. PyOD is the subject of five published books and is cited in 49 patents.
+> **External adoption of PyOD.** Named by [OpenAI](https://openai.com/careers/technical-intelligence-analyst-san-francisco/) as expected operational tooling, shipped as a first-class ModelHandler in [Apache Beam](https://github.com/apache/beam/blob/master/sdks/python/apache_beam/ml/anomaly/detectors/pyod_adapter.py) (Apache Software Foundation), running the live-traffic alerting subsystem in [PostHog](https://github.com/PostHog/posthog/tree/master/posthog/tasks/alerts/detectors/pyod_detectors), the canonical anomaly-detection flavor in [MLflow](https://github.com/mlflow/mlflow/blob/master/docs/docs/classic-ml/community-model-flavors/index.mdx) community-flavor docs, and embedded in [Genentech (Roche)](https://github.com/Genentech/data-detective) drug-discovery validators. It is also used by Amazon, Walmart, and Databricks, runs inside published procurement audits by the Brazilian federal government, and is deployed in a UK Government care service. 5,560 public repositories and 159 packages depend on PyOD (August 2026 snapshot). The U.S. DoD CDAO lists PyOD; ESA OPS-SAT flies it for spacecraft anomaly detection. PyOD is the subject of five published books and is cited in 49 patents.
 
 <details>
 <summary><b>Other Notable Projects</b></summary>
@@ -101,6 +96,7 @@ Founder & Maintainer of **[博士栈 · CSPhD.org](https://csphd.org)**, a non-p
 
 - 🌐 [Homepage](https://viterbi-web.usc.edu/~yzhao010/) · [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/yzhao062/)
 - ✉️ `yue.z [AT] usc.edu`
+- 💼 Auditable AI, for investors and design partners: [hello@auditable.run](mailto:hello@auditable.run)
 
 <div align="center">
 
