@@ -4,7 +4,7 @@
 
 # Yue Zhao (赵越)
 
-**Building auditable AI systems: risk detection, attribution, and control**
+**Building auditable AI systems: detection, verification, control, and cost**
 
 USC Assistant Professor · Founder of Auditable AI · Open-source author
 
@@ -23,7 +23,7 @@ USC Assistant Professor · Founder of Auditable AI · Open-source author
 </div>
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable** across agent action, model behavior, and input distribution. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. Across the projects I lead or co-author: **29k+ GitHub stars and 60M+ downloads** (August 2026), including PyOD, PyGOD, ADBench, TrustLLM, and Therapeutics Data Commons. Author of over 80 peer-reviewed papers with ~12k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**.
+> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI, Apache Beam, PostHog, MLflow, and Genentech. Across the projects I lead or co-author: **29k+ GitHub stars and 60M+ downloads** (August 2026), including PyOD, PyGOD, ADBench, TrustLLM, and Therapeutics Data Commons. Author of over 80 peer-reviewed papers with ~12k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**.
 
 > [!IMPORTANT]
 > **Founder of [Auditable AI](https://auditable.run): a venture building auditable AI agents.** Open-source infrastructure to capture, verify, and roll back agent decisions, anchored by [`auditable`](https://github.com/yzhao062/auditable) and drawing on a decade of anomaly-detection research. Introductions from investors and design partners welcome at [hello@auditable.run](mailto:hello@auditable.run).
@@ -34,26 +34,16 @@ USC Assistant Professor · Founder of Auditable AI · Open-source author
 
 ## Research
 
-AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source infrastructure that **make AI systems auditable**: detecting, diagnosing, and controlling departures from expected behavior, from anomalous data and foundation-model failures to consequential agent actions.
+AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source infrastructure that **make AI systems auditable**: detecting, diagnosing, and controlling departures from expected behavior, from anomalous data and foundation-model failures to consequential agent actions. That same record answers a fourth question: whether the work an agent did was necessary at all.
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data distributions to foundation-model behavior and agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before and after deployment.
 
-Three levels in the lab taxonomy:
+The same four audit questions the [homepage](https://viterbi-web.usc.edu/~yzhao010/) states, listed here newest first:
 
-- 🤖 **Agent Action: Auditability and Control of Agent Systems.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), and static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)) with its benchmark ([FORTIS](https://arxiv.org/abs/2605.09163)). Also post-run failure localization in multi-agent systems ([GRADE](https://arxiv.org/abs/2606.22741)) and agent-specific failure modes: over-privilege and cross-user contamination.
-- 🧠 **Model Behavior: Trust and Robustness of Foundation Models.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
-- 📊 **Input Distribution: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
-
-A fourth question cuts across all three levels: **was the work necessary?** Whatever record makes a
-system accountable also shows what its effort bought, and that is the dimension industry
-asks about most. [The Autonomy Tax](https://arxiv.org/abs/2603.19423) measures what
-defense training against prompt injection costs an agent's ability to finish multi-step
-tasks. [Bandit routing](https://arxiv.org/abs/2510.07429) treats model choice as an online
-cost-quality decision, and [DyFlow](https://openreview.net/forum?id=0pbUfmwNTy) constructs
-agent workflows as a run proceeds. The same question runs back through the detection line,
-where [SUOD](https://proceedings.mlsys.org/paper_files/paper/2021/hash/37385144cac01dff38247ab11c119e3c-Abstract.html)
-and the GPU-accelerated [TOD](https://www.vldb.org/pvldb/vol16/p546-zhao.pdf) cut the compute
-cost of running many detectors at scale.
+- 🤖 **Auditing of Action: Auditability and Control of Agent Systems.** Auditability frameworks ([Auditable Agents](https://arxiv.org/abs/2604.05485), [`auditable`](https://github.com/yzhao062/auditable)), runtime control that intercepts tool calls before they fire ([Aegis](https://github.com/Justin0504/Aegis)), and static over-privilege scanning ([agent-audit](https://github.com/HeadyZhang/agent-audit)) with its benchmark ([FORTIS](https://arxiv.org/abs/2605.09163)). Also post-run failure localization in multi-agent systems ([GRADE](https://arxiv.org/abs/2606.22741)) and agent-specific failure modes: over-privilege and cross-user contamination.
+- ⚡ **Optimization of Effort: Agent Efficiency, Routing, and the Cost of Defense.** Whether the work an agent did was necessary, read from the same record that makes it accountable, and the dimension industry asks about most. [The Autonomy Tax](https://arxiv.org/abs/2603.19423) measures what defense training against prompt injection costs an agent's ability to finish multi-step tasks. [Bandit routing](https://arxiv.org/abs/2510.07429) treats model choice as an online cost-quality decision, and [DyFlow](https://openreview.net/forum?id=0pbUfmwNTy) constructs agent workflows as a run proceeds. The question runs back through the detection line, where [SUOD](https://proceedings.mlsys.org/paper_files/paper/2021/hash/37385144cac01dff38247ab11c119e3c-Abstract.html) and the GPU-accelerated [TOD](https://www.vldb.org/pvldb/vol16/p546-zhao.pdf) cut the compute cost of running many detectors at scale.
+- 🧠 **Verification of Output: Trust and Robustness of Foundation Models.** Jailbreak detection for vision-language models, causal analysis of hallucination, query-agnostic attacks on retrieval-augmented generation, and LLM-as-anomaly-detector benchmarks.
+- 📊 **Detection in Data: Anomaly and Out-of-Distribution Detection.** PyOD ecosystem, ADBench, automatic OOD detector selection, modality-specific OOD methods, and few-shot cross-domain OOD detection.
 
 Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organizes this into five dimensions of auditability and three mechanism classes (detect, enforce, recover). It appears at the inaugural ACM AI Leadership Summit and at the ACL 2026 KnowFM workshop.
 
@@ -63,13 +53,13 @@ Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organize
 
 **29k+ GitHub stars and 60M+ downloads across the projects I lead or co-author** (August 2026). Featured below (full list on the [homepage](https://viterbi-web.usc.edu/~yzhao010/opensource.html)):
 
-| Project | Research level / role | Stars | What It Does |
+| Project | Audit question / role | Stars | What It Does |
 |---|---|---|---|
-| [**PyOD**](https://github.com/yzhao062/pyod) | Input distribution | [![PyOD GitHub stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat&label=%20&color=990000)](https://github.com/yzhao062/pyod) | Canonical anomaly detection, now in its third major release. 60+ detectors across tabular, time series, graph, text, and image data, plus an ADEngine orchestration core and an agentic investigation layer driven in natural language. |
-| [**auditable**](https://github.com/yzhao062/auditable) | Agent action | [![auditable GitHub stars](https://img.shields.io/github/stars/yzhao062/auditable?style=flat&label=%20&color=990000)](https://github.com/yzhao062/auditable) | System of record for AI-agent decisions: capture, replay against live state, roll back. |
-| [**GRADE**](https://github.com/yzhao062/grade) | Agent action | [![GRADE GitHub stars](https://img.shields.io/github/stars/yzhao062/grade?style=flat&label=%20&color=990000)](https://github.com/yzhao062/grade) | The method `auditable` is built on: a typed two-layer graph of agent execution and dependency. [arXiv](https://arxiv.org/abs/2606.22741) |
-| [**agent-audit**](https://github.com/HeadyZhang/agent-audit) | Agent action | [![agent-audit GitHub stars](https://img.shields.io/github/stars/HeadyZhang/agent-audit?style=flat&label=%20&color=990000)](https://github.com/HeadyZhang/agent-audit) | Static security and over-privilege scanner for AI-agent code. |
-| [**awesome-auditable-ai**](https://github.com/yzhao062/awesome-auditable-ai) | Agent action | [![awesome-auditable-ai GitHub stars](https://img.shields.io/github/stars/yzhao062/awesome-auditable-ai?style=flat&label=%20&color=990000)](https://github.com/yzhao062/awesome-auditable-ai) | Curated map of papers, tools, datasets, and standards for reliable, auditable AI agents. |
+| [**PyOD**](https://github.com/yzhao062/pyod) | Detection in data | [![PyOD GitHub stars](https://img.shields.io/github/stars/yzhao062/pyod?style=flat&label=%20&color=990000)](https://github.com/yzhao062/pyod) | Canonical anomaly detection, now in its third major release. 60+ detectors across tabular, time series, graph, text, and image data, plus an ADEngine orchestration core and an agentic investigation layer driven in natural language. |
+| [**auditable**](https://github.com/yzhao062/auditable) | Auditing of action | [![auditable GitHub stars](https://img.shields.io/github/stars/yzhao062/auditable?style=flat&label=%20&color=990000)](https://github.com/yzhao062/auditable) | System of record for AI-agent decisions: capture, replay against live state, roll back. |
+| [**GRADE**](https://github.com/yzhao062/grade) | Auditing of action | [![GRADE GitHub stars](https://img.shields.io/github/stars/yzhao062/grade?style=flat&label=%20&color=990000)](https://github.com/yzhao062/grade) | The method `auditable` is built on: a typed two-layer graph of agent execution and dependency. [arXiv](https://arxiv.org/abs/2606.22741) |
+| [**agent-audit**](https://github.com/HeadyZhang/agent-audit) | Auditing of action | [![agent-audit GitHub stars](https://img.shields.io/github/stars/HeadyZhang/agent-audit?style=flat&label=%20&color=990000)](https://github.com/HeadyZhang/agent-audit) | Static security and over-privilege scanner for AI-agent code. |
+| [**awesome-auditable-ai**](https://github.com/yzhao062/awesome-auditable-ai) | Auditing of action | [![awesome-auditable-ai GitHub stars](https://img.shields.io/github/stars/yzhao062/awesome-auditable-ai?style=flat&label=%20&color=990000)](https://github.com/yzhao062/awesome-auditable-ai) | Curated map of papers, tools, datasets, and standards for reliable, auditable AI agents. |
 | [**anywhere-agents**](https://github.com/yzhao062/anywhere-agents) | Supporting tooling | [![anywhere-agents GitHub stars](https://img.shields.io/github/stars/yzhao062/anywhere-agents?style=flat&label=%20&color=990000)](https://github.com/yzhao062/anywhere-agents) | One config for Claude Code and Codex across every project and session. |
 | [**agent-style**](https://github.com/yzhao062/agent-style) | Supporting tooling | [![agent-style GitHub stars](https://img.shields.io/github/stars/yzhao062/agent-style?style=flat&label=%20&color=990000)](https://github.com/yzhao062/agent-style) | 21 writing rules loaded into AI agents at generation time. |
 
