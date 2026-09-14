@@ -6,7 +6,7 @@
 
 **Building auditable AI systems: detection, verification, control, and cost**
 
-USC Assistant Professor · Founder of Auditable AI · Open-source author
+USC Assistant Professor · <!-- [Auditable AI paused 2026-09] Founder of Auditable AI · -->Open-source author
 
 [![Homepage](https://img.shields.io/badge/Homepage-USC-990000)](https://viterbi-web.usc.edu/~yzhao010/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-14k%2B%20citations-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zoGDYsoAAAAJ)
@@ -23,7 +23,7 @@ USC Assistant Professor · Founder of Auditable AI · Open-source author
 </div>
 
 > [!NOTE]
-> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI and used by Apache Beam, Amazon, Walmart, Databricks, and the European Space Agency. Across the projects I lead or co-author: **30k+ GitHub stars and 60M+ downloads** (September 2026), including PyOD, ADBench, TrustLLM, agent-audit, and Aegis. Author of over 80 peer-reviewed papers with ~14k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. I am founding [Auditable AI](https://auditable.run), the auditable layer for AI agents. I also serve as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
+> Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI and used by Apache Beam, Amazon, Walmart, Databricks, and the European Space Agency. Across the projects I lead or co-author: **30k+ GitHub stars and 60M+ downloads** (September 2026), including PyOD, ADBench, TrustLLM, agent-audit, and Aegis. Author of over 80 peer-reviewed papers with ~14k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. <!-- [Auditable AI paused 2026-09] To restore, uncomment and change "I serve" below back to "I also serve": I am founding [Auditable AI](https://auditable.run), the auditable layer for AI agents. -->I serve as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
 
 ---
 
@@ -96,7 +96,7 @@ Founder & Maintainer of **[博士栈 · CSPhD.org](https://csphd.org)**, a non-p
 
 - 🌐 [Homepage](https://viterbi-web.usc.edu/~yzhao010/) · [Google Scholar](https://scholar.google.com/citations?user=zoGDYsoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/yzhao062/)
 - ✉️ `yue.z [AT] usc.edu`
-- 💼 Auditable AI, for investors and design partners: [hello@auditable.run](mailto:hello@auditable.run)
+<!-- [Auditable AI paused 2026-09] - 💼 Auditable AI, for investors and design partners: [hello@auditable.run](mailto:hello@auditable.run) -->
 
 <div align="center">
 
