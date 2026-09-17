@@ -23,7 +23,7 @@ USC Assistant Professor · <!-- [Auditable AI paused 2026-09] Founder of Auditab
 
 </div>
 
-### [Audit Commons](https://auditcommons.org/)
+<h3><a href="https://auditcommons.org/"><img src="assets/audit-commons.svg" alt="AC logo" width="48" height="48" align="absmiddle"> Audit Commons</a></h3>
 
 I founded and edit **Audit Commons**, an independent news and learning site about AI auditing. Find research updates, practical guides, and a searchable collection of tools, benchmarks, datasets, and standards, in English and Chinese.
 
