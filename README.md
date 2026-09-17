@@ -14,6 +14,7 @@ USC Assistant Professor · <!-- [Auditable AI paused 2026-09] Founder of Auditab
 [![PyOD downloads](https://static.pepy.tech/badge/pyod)](https://pepy.tech/project/pyod)
 
 [Homepage](https://viterbi-web.usc.edu/~yzhao010/) &nbsp;·&nbsp;
+[Audit Commons](https://auditcommons.org/) &nbsp;·&nbsp;
 [Research](#research) &nbsp;·&nbsp;
 [Open Source](#open-source) &nbsp;·&nbsp;
 [FORTIS Lab](#fortis-lab) &nbsp;·&nbsp;
@@ -21,6 +22,12 @@ USC Assistant Professor · <!-- [Auditable AI paused 2026-09] Founder of Auditab
 [Contact](#contact)
 
 </div>
+
+### [Audit Commons](https://auditcommons.org/)
+
+I founded and edit **Audit Commons**, an independent news and learning site about AI auditing. Find research updates, practical guides, and a searchable collection of tools, benchmarks, datasets, and standards, in English and Chinese.
+
+[Latest updates](https://auditcommons.org/latest/) · [Learn](https://auditcommons.org/learn/) · [Resources](https://auditcommons.org/resources/) · [中文版](https://auditcommons.org/zh/)
 
 > [!NOTE]
 > Assistant Professor at USC Computer Science, PI of the **FORTIS Lab**, and Associate Co-Director of the **USC Institute on Ethics and Trust in Computing** for 2026-2027. I research, build, and open-source the methods, benchmarks, and infrastructure that **make AI systems auditable**. Four questions carry that work: the data going in, the output coming out, the action taken, and the effort spent. Creator of **PyOD**, the canonical Python anomaly-detection library, named by OpenAI and used by Apache Beam, Amazon, Walmart, Databricks, and the European Space Agency. Across the projects I lead or co-author: **30k+ GitHub stars and 60M+ downloads** (September 2026), including PyOD, ADBench, TrustLLM, agent-audit, and Aegis. Author of over 80 peer-reviewed papers with ~14k Google Scholar citations. Co-authored work (TrustLLM) is cited in a **U.S. Senate HSGAC report, NIST AI 100-2e2025, and the International AI Safety Report 2026**. <!-- [Auditable AI paused 2026-09] To restore, uncomment and change "I serve" below back to "I also serve": I am founding [Auditable AI](https://auditable.run), the auditable layer for AI agents. -->I serve as Chief Scientific Advisor to [Figwork](https://www.figwork.ai/), an AI platform for early-career talent.
