@@ -49,6 +49,8 @@ The same four audit questions the [homepage](https://viterbi-web.usc.edu/~yzhao0
 
 Our position paper [Auditable Agents](https://arxiv.org/abs/2604.05485) organizes this into five dimensions of auditability and three mechanism classes (detect, enforce, recover). It appears at the inaugural ACM AI Leadership Summit and at the ACL 2026 KnowFM workshop.
 
+Beyond a system's behavior, I study its real-world impact: how LLMs and agents can affect people and the decisions made with them.
+
 ---
 
 ## Open Source
