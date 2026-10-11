@@ -36,7 +36,7 @@ I founded and edit **Audit Commons**, an independent news and learning site abou
 
 ## Research
 
-AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the methods, benchmarks, and open-source infrastructure that **make AI systems auditable**: detecting, diagnosing, and controlling departures from expected behavior, from anomalous data and foundation-model failures to consequential agent actions. Each direction also asks whether the work was necessary, and a developing direction asks what that evidence implies about future losses.
+AI systems are deployed faster than they can be verified. Foundation models and autonomous agents now make consequential decisions, execute code, and interact with external services, often without systematic inspection of what they do or why. My research builds the theory, methods, benchmarks, and open-source infrastructure that **make AI systems auditable**. It detects, diagnoses, and controls departures from expected behavior, from anomalous data and foundation-model failures to consequential agent actions. Each direction also asks whether the work was necessary, and a developing direction asks what that evidence implies about future losses.
 
 Methodologically, this work extends my prior research on **anomaly and outlier detection** (the basis of the [PyOD](https://github.com/yzhao062/pyod) ecosystem) from data distributions to foundation-model behavior and agent decision traces, where unsafe, anomalous, or out-of-policy actions must be detected and reconstructed before and after deployment.
 
